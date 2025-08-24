@@ -15,7 +15,8 @@ export const livechat_client_id = '66aa088aad5a414484c1fd1fa8a5ace7';
 
 export const domain_app_ids = {
     // these domains as supported "production domains"
-    'dtrader.dtrader.defentraders.site': 97813, // TODO: [app-link-refactor] - Remove backwards compatibility for `deriv.app`
+    'dtrader.dtrader.defentraders.site': 97813,
+    'defentraders.site': 74892 // TODO: [app-link-refactor] - Remove backwards compatibility for `deriv.app`
 };
 
 export const platform_app_ids = {

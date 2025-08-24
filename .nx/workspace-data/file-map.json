@@ -83,552 +83,552 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "nx-cloud.env.example",
-        "hash": "7041907643926882943"
-      },
-      {
-        "file": "scripts/check-tests.sh",
-        "hash": "9622893060761089185"
-      },
-      {
-        "file": ".github/workflows/test.yml",
-        "hash": "1514101362809616770"
-      },
-      {
-        "file": ".github/actions/invalidate_npm_cache/action.yml",
-        "hash": "13208227821348124510"
-      },
-      {
-        "file": "__mocks__/globals.js",
-        "hash": "12869529316679446762"
-      },
-      {
-        "file": ".commitlintrc.json",
-        "hash": "7954883893246595078"
-      },
-      {
-        "file": ".github/workflows/smoketests_manual.yml",
-        "hash": "699352606582385132"
-      },
-      {
-        "file": ".github/actions/setup_node/action.yml",
-        "hash": "1900893088621716907"
-      },
-      {
-        "file": "__mocks__/utils.mock.js",
-        "hash": "10150079722232167839"
-      },
-      {
-        "file": "nx.json",
-        "hash": "14811547688036371329"
-      },
-      {
-        "file": ".github/workflows/build_docker_image.yml",
-        "hash": "11911719934338528083"
-      },
-      {
-        "file": "trader-deploy/js/trader.screen-large.63214046e5549cbfe7b3.js",
-        "hash": "8294453153765412031"
-      },
-      {
-        "file": "trader-deploy/js/trader.even-odd-trade-description.aa75f394e290d3abdb6c.js",
-        "hash": "6285214188757389286"
-      },
-      {
-        "file": "scripts/check-imports.js",
-        "hash": "1471907153355528980"
-      },
-      {
-        "file": "trader-deploy/css/trader.src_sass_app_scss-src_App_Components_Elements_PositionsDrawer_helpers_index_ts-src_App_init-s-ba58f8.1912d1556ef37d94ef3e.css",
-        "hash": "18268043607999565775"
-      },
-      {
-        "file": "trader-deploy/js/trader.rise-fall-trade-description.e324b6c707c7bbcb9667.js",
-        "hash": "820877749144608238"
-      },
-      {
-        "file": ".husky/post-merge",
-        "hash": "2213761663528130316"
-      },
-      {
-        "file": "trader-deploy/js/trader.vendors-node_modules_deriv_quill-icons_dist_esm_react_LabelPaired_LabelPairedChevronsDownCapt-dee9aa.382d17e67da104c25bd3.js",
-        "hash": "6435114356309973162"
-      },
-      {
         "file": "trader-deploy/js/trader.accumulators-trade-description.f119243aa98e2274d249.js",
         "hash": "603445816603144378"
-      },
-      {
-        "file": "trader-deploy/js/trader.vendors-node_modules_react-content-loader_dist_react-content-loader_es_js-node_modules_react--d46026.ebb8e48c49fb6c5d9c4f.js",
-        "hash": "11880039786257220193"
-      },
-      {
-        "file": "trader-deploy/js/trader.settings-chart.a25a0c0dcec576e89a5e.js",
-        "hash": "18226222858074094072"
-      },
-      {
-        "file": "trader-deploy/js/trader.multipliers-trade-description.d4b029806bdc63056969.js",
-        "hash": "7490528908081768544"
-      },
-      {
-        "file": "docs/Stylesheet/README.md",
-        "hash": "9878776503825364155"
-      },
-      {
-        "file": "setupTests.js",
-        "hash": "18395007098765842477"
-      },
-      {
-        "file": ".github/actions/analyze/compareReports.js",
-        "hash": "13670101071155126159"
       },
       {
         "file": ".github/workflows/generate_app_id.yml",
         "hash": "8606811651977613018"
       },
       {
-        "file": "types/utils.d.ts",
-        "hash": "7786200652724017002"
-      },
-      {
-        "file": ".github/workflows/generate_and_push_deriv_api_types.yml",
-        "hash": "3055453671871022710"
-      },
-      {
-        "file": "docs/JavaScript/README.md",
-        "hash": "10646827030684562873"
-      },
-      {
-        "file": "trader-deploy/js/trader.touch-no-touch-trade-description.ded06168f5c17efcf1e0.js",
-        "hash": "417918016477894284"
-      },
-      {
-        "file": "lerna.json",
-        "hash": "4424025658815316949"
-      },
-      {
-        "file": ".github/workflows/release_test.yml",
-        "hash": "3233376668630094266"
-      },
-      {
-        "file": "trader-deploy/js/trader.trader-app.ead44612e75495f2a09c.js",
-        "hash": "16897214811344556211"
-      },
-      {
-        "file": "trader-deploy/js/trader.higher-lower-trade-description.505ef70265999bf94f01.js",
-        "hash": "7204929558190938365"
-      },
-      {
-        "file": ".eslintignore",
-        "hash": "15407719801463093179"
-      },
-      {
-        "file": "trader-deploy/js/trader.contract.3a1c3e40bc8d6eee504b.js",
-        "hash": "11392428324914318193"
-      },
-      {
-        "file": ".github/workflows/analyze.yml",
-        "hash": "5152297769874819203"
-      },
-      {
-        "file": ".husky/pre-commit",
-        "hash": "3255892640244836420"
-      },
-      {
-        "file": ".github/boring-cyborg.yml",
-        "hash": "7725124892600427974"
-      },
-      {
-        "file": "trader-deploy/asset-manifest.json",
-        "hash": "1643469958554859614"
-      },
-      {
-        "file": "types/global.d.ts",
-        "hash": "15588136486311764734"
-      },
-      {
-        "file": "hooks/post-merge.sh",
-        "hash": "14012673302819686850"
-      },
-      {
-        "file": "trader-deploy/js/trader.matches-differs-trade-description.884aae61dfca1eea8ad4.js",
-        "hash": "12310563233247200284"
-      },
-      {
-        "file": ".github/workflows/smoketests.yml",
-        "hash": "7351950786408719317"
-      },
-      {
-        "file": "__mocks__/deriv-com.ui.mock.js",
-        "hash": "17847120010233828908"
-      },
-      {
-        "file": "trader-deploy/css/trader.vendors-node_modules_cloudflare_stream-react_dist_stream-react_esm_js-node_modules_deriv_quil-0ca386.86a512f45fe6caaf98c3.css",
-        "hash": "3535281144555485548"
-      },
-      {
-        "file": "hooks/pre-push.sh",
-        "hash": "5286686340530522257"
-      },
-      {
-        "file": "tsconfig.json",
-        "hash": "4785799033052902872"
-      },
-      {
-        "file": "jest.config.base.js",
-        "hash": "11264346071027136485"
-      },
-      {
-        "file": "trader-deploy/css/trader.screen-small.1c6aa74bc5da9506893f.css",
-        "hash": "424840034955738348"
-      },
-      {
-        "file": ".github/actions/publish_to_pages_production/action.yml",
-        "hash": "6958228495412707319"
-      },
-      {
-        "file": "types/blockly.d.ts",
-        "hash": "7519571552178495416"
-      },
-      {
-        "file": "docs/Modules/README.md",
-        "hash": "11219714609692194324"
-      },
-      {
-        "file": "docs/Dependencies/README.md",
-        "hash": "2961513967652254026"
-      },
-      {
-        "file": "__mocks__/translation.mock.js",
-        "hash": "11640752155346710381"
-      },
-      {
-        "file": ".github/workflows/automationrc.json",
-        "hash": "11574350821299685291"
-      },
-      {
-        "file": ".github/actions/publish_to_pages_uat/action.yml",
-        "hash": "3968386743461719588"
-      },
-      {
-        "file": "trader-deploy/js/trader.hooks_src_useMFAccountStatus_ts-src_Modules_Trading_Helpers_video-config_ts-src_Stores_Module-77c64e.fd9d05a0cca318bc350a.js",
-        "hash": "13533996397089944111"
-      },
-      {
-        "file": ".github/workflows/push_and_pull_crowdin_translations.md",
-        "hash": "9069722454727571038"
-      },
-      {
-        "file": ".github/CODEOWNERS",
-        "hash": "12663982432440147546"
-      },
-      {
-        "file": "__mocks__/fileMock.js",
-        "hash": "1018172441669056807"
-      },
-      {
-        "file": "trader-deploy/js/trader.src_Modules_Trading_Components_Form_TradeParams_Accumulator_accumulators-info-display_tsx-src-a7086a.114d79c577417d61d658.js",
-        "hash": "3296089013459955268"
-      },
-      {
-        "file": ".github/workflows/generate_and_push_deriv_api_types.md",
-        "hash": "14752003551480571600"
-      },
-      {
-        "file": ".travis.yml",
-        "hash": "7743544888499916257"
-      },
-      {
-        "file": "trader-deploy/js/trader.turbos-trade-description.c245100ce303d1e587a7.js",
-        "hash": "9471534655059941054"
-      },
-      {
-        "file": ".github/actions/analyze/action.yml",
-        "hash": "457514574082819381"
-      },
-      {
-        "file": "trader-deploy/css/trader.trader-app.c23b848116d7201ae4cd.css",
-        "hash": "7132387185705013609"
-      },
-      {
-        "file": ".github/workflows/release_staging.yml",
-        "hash": "9252275134041040692"
-      },
-      {
-        "file": "docs/package_dependencies.png",
-        "hash": "3935936426562658644"
-      },
-      {
-        "file": "trader-deploy/js/trader.vendors-node_modules_datadog_browser-rum_esm_entries_main_js-node_modules_bowser_es5_js-node_-2936ed.641ff6a956721efe12e7.js",
-        "hash": "5862392827330345762"
-      },
-      {
-        "file": "docs/git/README.md",
-        "hash": "14617688955422723122"
-      },
-      {
-        "file": "trader-deploy/js/trader.error-component.24fe6739097bd2958fce.js",
-        "hash": "4535953275524639557"
-      },
-      {
-        "file": "trader-deploy/js/trader.screen-small.0688d15df567f952ffbb.js",
-        "hash": "5345372389876865011"
-      },
-      {
-        "file": ".github/workflows/remote_config_pr.yml",
-        "hash": "4301076487562138061"
+        "file": ".eslintrc.js",
+        "hash": "13236919886401729596"
       },
       {
         "file": ".github/actions/publish_to_pages_staging/action.yml",
         "hash": "7532564673881347127"
       },
       {
-        "file": "Dockerfile",
-        "hash": "16673833265105536083"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "2303642404724327591"
-      },
-      {
-        "file": ".prettierignore",
-        "hash": "7083867210218692195"
-      },
-      {
-        "file": ".github/workflows/stale.yml",
-        "hash": "10625570303192999770"
-      },
-      {
-        "file": ".github/pull_request_template.md",
-        "hash": "14250442855188194508"
-      },
-      {
-        "file": ".github/workflows/merge_and_release_to_staging.yml",
-        "hash": "8143477635789960788"
-      },
-      {
-        "file": ".lintstagedrc.json",
-        "hash": "12825823929011875438"
-      },
-      {
-        "file": "jest.setup.js",
-        "hash": "5272592626641043315"
-      },
-      {
-        "file": "__mocks__/auth-client.mock.js",
-        "hash": "18325460551276456850"
-      },
-      {
-        "file": ".husky/commit-msg",
-        "hash": "15273148749009256939"
-      },
-      {
-        "file": "trader-deploy/js/trader.trade-modals.33efcb90ba693405cccb.js",
-        "hash": "12292082380728728469"
-      },
-      {
-        "file": "trader-deploy/js/trader.src_sass_app_scss-src_App_Components_Elements_PositionsDrawer_helpers_index_ts-src_App_init-s-ba58f8.21624072a28accdd94ab.js",
-        "hash": "14148622072866542944"
-      },
-      {
-        "file": "trader-deploy/js/trader.trader-app-v2.8341f80151a781fdbf66.js",
-        "hash": "2168786564770108594"
-      },
-      {
-        "file": "trader-deploy/vercel.json",
-        "hash": "15837353117387983662"
-      },
-      {
-        "file": "package.json",
-        "hash": "2727517391430020264"
-      },
-      {
-        "file": "trader-deploy/js/trader.vanillas-trade-description.0725da979f485569e402.js",
-        "hash": "6437235981049703241"
-      },
-      {
-        "file": "default.conf",
-        "hash": "5992324476747020483"
-      },
-      {
-        "file": ".husky/.gitignore",
-        "hash": "10106645302852536800"
-      },
-      {
-        "file": "vercel.json",
-        "hash": "16982053696983051697"
-      },
-      {
         "file": "V2-MIGRATION-GUIDE.MD",
         "hash": "14276741953027621349"
+      },
+      {
+        "file": "trader-deploy/js/trader.even-odd-trade-description.aa75f394e290d3abdb6c.js",
+        "hash": "6285214188757389286"
+      },
+      {
+        "file": ".github/actions/analyze/action.yml",
+        "hash": "457514574082819381"
       },
       {
         "file": "eslint-local-rules/index.js",
         "hash": "4971542074609981645"
       },
       {
-        "file": "qawolf.config.js",
-        "hash": "4834732743170392588"
+        "file": "hooks/post-merge.sh",
+        "hash": "14012673302819686850"
       },
       {
-        "file": "README.md",
-        "hash": "3777040208513422767"
+        "file": "__mocks__/fileMock.js",
+        "hash": "1018172441669056807"
       },
       {
-        "file": ".github/lighthouse/lighthouserc.json",
-        "hash": "8139817067661193406"
+        "file": ".github/actions/analyze/compareReports.js",
+        "hash": "13670101071155126159"
       },
       {
-        "file": ".eslintrc.js",
-        "hash": "13236919886401729596"
-      },
-      {
-        "file": ".github/workflows/sync-translations.yml",
-        "hash": "4475555928003193697"
-      },
-      {
-        "file": "trader-deploy/css/trader.trader-app-v2.bf7fe21e3692b2ae7c80.css",
-        "hash": "4750761003210863336"
-      },
-      {
-        "file": ".prettierrc",
-        "hash": "15308740546970707008"
-      },
-      {
-        "file": ".github/actions/download_remote_config_backup/action.yml",
-        "hash": "17848199035650493824"
-      },
-      {
-        "file": ".github/workflows/release_uat2.yml",
-        "hash": "11467947286659710048"
-      },
-      {
-        "file": ".github/workflows/push_and_pull_crowdin_translations.yml",
-        "hash": "892765869508804736"
-      },
-      {
-        "file": ".github/actions/versioning/action.yml",
-        "hash": "13525718399907869005"
-      },
-      {
-        "file": "WRITING TESTS.md",
-        "hash": "10855733417395638727"
-      },
-      {
-        "file": "types/svg.d.ts",
-        "hash": "2723891104647893293"
-      },
-      {
-        "file": "trader-deploy/.gitignore",
-        "hash": "1862265637977512098"
-      },
-      {
-        "file": "docs/README.md",
-        "hash": "5589912385839151340"
-      },
-      {
-        "file": "postcss.config.js",
-        "hash": "17128295701842752783"
-      },
-      {
-        "file": "trader-deploy/css/trader.src_Modules_Trading_Components_Form_TradeParams_Accumulator_accumulators-info-display_tsx-src-a7086a.e2d6e403d6a10fc295e5.css",
-        "hash": "12091717896850496893"
-      },
-      {
-        "file": "trader-deploy/js/trader.js",
-        "hash": "2178983528639636150"
-      },
-      {
-        "file": ".github/actions/npm_install_from_cache/action.yml",
-        "hash": "15691874985642919393"
-      },
-      {
-        "file": ".github/workflows/coveralls.yml",
-        "hash": "13798903043641502479"
+        "file": "scripts/check-tests.sh",
+        "hash": "9622893060761089185"
       },
       {
         "file": "trader-deploy/css/trader.vendors-node_modules_react-content-loader_dist_react-content-loader_es_js-node_modules_react--d46026.81cf2f6f5d425f59e023.css",
         "hash": "15917885115623397727"
       },
       {
-        "file": "package-lock.json",
-        "hash": "9022698142606131621"
+        "file": "types/global.d.ts",
+        "hash": "15588136486311764734"
       },
       {
-        "file": "sonar-project.properties",
-        "hash": "5007276303618536562"
+        "file": "README.md",
+        "hash": "3777040208513422767"
       },
       {
-        "file": "__mocks__/styleMock.js",
-        "hash": "3429130306414473014"
+        "file": "__mocks__/deriv-com.ui.mock.js",
+        "hash": "17847120010233828908"
       },
       {
-        "file": ".github/actions/build/action.yml",
-        "hash": "15713401306626906512"
+        "file": ".github/workflows/coveralls.yml",
+        "hash": "13798903043641502479"
       },
       {
-        "file": "trader-deploy/js/trader.market-countdown-timer.b3f392cf58edf6a649f3.js",
-        "hash": "12032947155602293881"
+        "file": "setupTests.js",
+        "hash": "18395007098765842477"
       },
       {
-        "file": "jest.config.js",
-        "hash": "6626711652311828739"
+        "file": "trader-deploy/css/trader.trader-app.c23b848116d7201ae4cd.css",
+        "hash": "7132387185705013609"
       },
       {
-        "file": "trader-deploy/js/trader.over-under-trade-description.ad377287b70b2811c746.js",
-        "hash": "12087109169648264739"
+        "file": "trader-deploy/js/trader.hooks_src_useMFAccountStatus_ts-src_Modules_Trading_Helpers_video-config_ts-src_Stores_Module-77c64e.fd9d05a0cca318bc350a.js",
+        "hash": "13533996397089944111"
       },
       {
-        "file": "trader-deploy/js/trader.src_Modules_Contract_Containers_replay-chart_tsx-src_Stores_Modules_Trading_Helpers_logic_ts.b35c560bfebc316020a6.js",
-        "hash": "15751587443814213348"
-      },
-      {
-        "file": ".github/workflows/release_production.yml",
-        "hash": "12798835675198918263"
-      },
-      {
-        "file": "Dockerfile-storybook",
-        "hash": "13548699327750840684"
-      },
-      {
-        "file": ".github/actions/publish_to_pages_test/action.yml",
-        "hash": "13438166771231315535"
-      },
-      {
-        "file": "trader-deploy/css/trader.trade-modals.b2813a3ad8395e4d70bb.css",
-        "hash": "17800781614911787104"
+        "file": "docs/Dependencies/README.md",
+        "hash": "2961513967652254026"
       },
       {
         "file": ".github/workflows/update_npm_cache.yml",
         "hash": "5627354900718731006"
       },
       {
+        "file": ".eslintignore",
+        "hash": "15407719801463093179"
+      },
+      {
         "file": "trader-deploy/js/trader.vendors-node_modules_cloudflare_stream-react_dist_stream-react_esm_js-node_modules_deriv_quil-0ca386.800aa3b64d114201ed16.js",
         "hash": "5464032987788518487"
       },
       {
-        "file": ".stylelintrc.js",
-        "hash": "18196883491111832388"
+        "file": "trader-deploy/js/trader.screen-large.63214046e5549cbfe7b3.js",
+        "hash": "8294453153765412031"
       },
       {
-        "file": "types/livechat.ts",
-        "hash": "11126349531720191700"
+        "file": ".github/boring-cyborg.yml",
+        "hash": "7725124892600427974"
+      },
+      {
+        "file": "types/utils.d.ts",
+        "hash": "7786200652724017002"
+      },
+      {
+        "file": ".husky/.gitignore",
+        "hash": "10106645302852536800"
+      },
+      {
+        "file": "__mocks__/utils.mock.js",
+        "hash": "10150079722232167839"
+      },
+      {
+        "file": ".github/workflows/test.yml",
+        "hash": "1514101362809616770"
+      },
+      {
+        "file": ".github/workflows/push_and_pull_crowdin_translations.yml",
+        "hash": "892765869508804736"
+      },
+      {
+        "file": "trader-deploy/css/trader.src_Modules_Trading_Components_Form_TradeParams_Accumulator_accumulators-info-display_tsx-src-a7086a.e2d6e403d6a10fc295e5.css",
+        "hash": "12091717896850496893"
+      },
+      {
+        "file": ".github/workflows/smoketests_manual.yml",
+        "hash": "699352606582385132"
       },
       {
         "file": ".github/workflows/lighthouse.yml",
         "hash": "17953221040584107101"
       },
       {
-        "file": "docs/Typescript/README.md",
-        "hash": "6216384093849808059"
+        "file": "trader-deploy/js/trader.turbos-trade-description.c245100ce303d1e587a7.js",
+        "hash": "9471534655059941054"
+      },
+      {
+        "file": "docs/README.md",
+        "hash": "5589912385839151340"
+      },
+      {
+        "file": "qawolf.config.js",
+        "hash": "4834732743170392588"
+      },
+      {
+        "file": "trader-deploy/js/trader.trader-app-v2.8341f80151a781fdbf66.js",
+        "hash": "2168786564770108594"
+      },
+      {
+        "file": "trader-deploy/js/trader.trader-app.ead44612e75495f2a09c.js",
+        "hash": "16897214811344556211"
+      },
+      {
+        "file": "trader-deploy/js/trader.market-countdown-timer.b3f392cf58edf6a649f3.js",
+        "hash": "12032947155602293881"
+      },
+      {
+        "file": ".github/workflows/analyze.yml",
+        "hash": "5152297769874819203"
+      },
+      {
+        "file": "trader-deploy/.gitignore",
+        "hash": "1862265637977512098"
+      },
+      {
+        "file": ".github/workflows/automationrc.json",
+        "hash": "11574350821299685291"
+      },
+      {
+        "file": ".lintstagedrc.json",
+        "hash": "12825823929011875438"
+      },
+      {
+        "file": ".github/actions/invalidate_npm_cache/action.yml",
+        "hash": "13208227821348124510"
+      },
+      {
+        "file": "types/blockly.d.ts",
+        "hash": "7519571552178495416"
+      },
+      {
+        "file": ".github/CODEOWNERS",
+        "hash": "12663982432440147546"
+      },
+      {
+        "file": "Dockerfile",
+        "hash": "16673833265105536083"
+      },
+      {
+        "file": "postcss.config.js",
+        "hash": "17128295701842752783"
+      },
+      {
+        "file": "trader-deploy/css/trader.screen-small.1c6aa74bc5da9506893f.css",
+        "hash": "424840034955738348"
+      },
+      {
+        "file": "trader-deploy/js/trader.multipliers-trade-description.d4b029806bdc63056969.js",
+        "hash": "7490528908081768544"
+      },
+      {
+        "file": ".github/workflows/sync-translations.yml",
+        "hash": "4475555928003193697"
+      },
+      {
+        "file": ".github/workflows/release_uat.yml",
+        "hash": "770898603211788083"
+      },
+      {
+        "file": ".github/workflows/release_staging.yml",
+        "hash": "9252275134041040692"
+      },
+      {
+        "file": "trader-deploy/css/trader.trader-app-v2.bf7fe21e3692b2ae7c80.css",
+        "hash": "4750761003210863336"
+      },
+      {
+        "file": ".github/workflows/merge_and_release_to_staging.yml",
+        "hash": "8143477635789960788"
+      },
+      {
+        "file": ".github/actions/download_remote_config_backup/action.yml",
+        "hash": "17848199035650493824"
+      },
+      {
+        "file": "trader-deploy/js/trader.rise-fall-trade-description.e324b6c707c7bbcb9667.js",
+        "hash": "820877749144608238"
+      },
+      {
+        "file": "trader-deploy/js/trader.error-component.24fe6739097bd2958fce.js",
+        "hash": "4535953275524639557"
+      },
+      {
+        "file": "trader-deploy/vercel.json",
+        "hash": "15837353117387983662"
+      },
+      {
+        "file": ".husky/post-merge",
+        "hash": "2213761663528130316"
+      },
+      {
+        "file": "trader-deploy/js/trader.js",
+        "hash": "2178983528639636150"
+      },
+      {
+        "file": "WRITING TESTS.md",
+        "hash": "10855733417395638727"
+      },
+      {
+        "file": "trader-deploy/js/trader.src_Modules_Contract_Containers_replay-chart_tsx-src_Stores_Modules_Trading_Helpers_logic_ts.b35c560bfebc316020a6.js",
+        "hash": "15751587443814213348"
+      },
+      {
+        "file": "package.json",
+        "hash": "2727517391430020264"
+      },
+      {
+        "file": "__mocks__/styleMock.js",
+        "hash": "3429130306414473014"
+      },
+      {
+        "file": "jest.config.js",
+        "hash": "6626711652311828739"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "9022698142606131621"
+      },
+      {
+        "file": ".github/workflows/generate_and_push_deriv_api_types.yml",
+        "hash": "3055453671871022710"
+      },
+      {
+        "file": "trader-deploy/js/trader.vanillas-trade-description.0725da979f485569e402.js",
+        "hash": "6437235981049703241"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "2303642404724327591"
+      },
+      {
+        "file": ".github/workflows/release_uat2.yml",
+        "hash": "11467947286659710048"
+      },
+      {
+        "file": ".github/actions/setup_node/action.yml",
+        "hash": "1900893088621716907"
+      },
+      {
+        "file": ".github/workflows/release_production.yml",
+        "hash": "12798835675198918263"
+      },
+      {
+        "file": ".commitlintrc.json",
+        "hash": "7954883893246595078"
+      },
+      {
+        "file": ".github/workflows/build_docker_image.yml",
+        "hash": "11911719934338528083"
+      },
+      {
+        "file": "trader-deploy/js/trader.matches-differs-trade-description.884aae61dfca1eea8ad4.js",
+        "hash": "12310563233247200284"
+      },
+      {
+        "file": "lerna.json",
+        "hash": "4424025658815316949"
+      },
+      {
+        "file": ".github/actions/versioning/action.yml",
+        "hash": "13525718399907869005"
+      },
+      {
+        "file": "trader-deploy/js/trader.screen-small.0688d15df567f952ffbb.js",
+        "hash": "5345372389876865011"
+      },
+      {
+        "file": ".husky/commit-msg",
+        "hash": "15273148749009256939"
+      },
+      {
+        "file": ".travis.yml",
+        "hash": "7743544888499916257"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "4785799033052902872"
+      },
+      {
+        "file": ".github/workflows/smoketests.yml",
+        "hash": "7351950786408719317"
+      },
+      {
+        "file": ".github/lighthouse/lighthouserc.json",
+        "hash": "8139817067661193406"
+      },
+      {
+        "file": "trader-deploy/css/trader.src_sass_app_scss-src_App_Components_Elements_PositionsDrawer_helpers_index_ts-src_App_init-s-ba58f8.1912d1556ef37d94ef3e.css",
+        "hash": "18268043607999565775"
+      },
+      {
+        "file": "trader-deploy/asset-manifest.json",
+        "hash": "1643469958554859614"
+      },
+      {
+        "file": ".github/workflows/stale.yml",
+        "hash": "10625570303192999770"
+      },
+      {
+        "file": ".github/actions/build/action.yml",
+        "hash": "15713401306626906512"
       },
       {
         "file": "babel.config.json",
         "hash": "13517406426309205634"
       },
       {
-        "file": ".github/workflows/release_uat.yml",
-        "hash": "770898603211788083"
+        "file": "trader-deploy/js/trader.vendors-node_modules_datadog_browser-rum_esm_entries_main_js-node_modules_bowser_es5_js-node_-2936ed.641ff6a956721efe12e7.js",
+        "hash": "5862392827330345762"
+      },
+      {
+        "file": ".github/workflows/remote_config_pr.yml",
+        "hash": "4301076487562138061"
+      },
+      {
+        "file": "trader-deploy/js/trader.vendors-node_modules_deriv_quill-icons_dist_esm_react_LabelPaired_LabelPairedChevronsDownCapt-dee9aa.382d17e67da104c25bd3.js",
+        "hash": "6435114356309973162"
+      },
+      {
+        "file": ".github/workflows/push_and_pull_crowdin_translations.md",
+        "hash": "9069722454727571038"
+      },
+      {
+        "file": "__mocks__/auth-client.mock.js",
+        "hash": "18325460551276456850"
+      },
+      {
+        "file": "trader-deploy/js/trader.touch-no-touch-trade-description.ded06168f5c17efcf1e0.js",
+        "hash": "417918016477894284"
+      },
+      {
+        "file": ".github/workflows/release_test.yml",
+        "hash": "3233376668630094266"
+      },
+      {
+        "file": ".github/actions/publish_to_pages_production/action.yml",
+        "hash": "6958228495412707319"
+      },
+      {
+        "file": "docs/Modules/README.md",
+        "hash": "11219714609692194324"
+      },
+      {
+        "file": "trader-deploy/js/trader.src_Modules_Trading_Components_Form_TradeParams_Accumulator_accumulators-info-display_tsx-src-a7086a.114d79c577417d61d658.js",
+        "hash": "3296089013459955268"
+      },
+      {
+        "file": ".github/actions/publish_to_pages_uat/action.yml",
+        "hash": "3968386743461719588"
+      },
+      {
+        "file": "jest.config.base.js",
+        "hash": "11264346071027136485"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "15308740546970707008"
+      },
+      {
+        "file": "trader-deploy/js/trader.over-under-trade-description.ad377287b70b2811c746.js",
+        "hash": "12087109169648264739"
+      },
+      {
+        "file": "__mocks__/globals.js",
+        "hash": "12869529316679446762"
+      },
+      {
+        "file": "trader-deploy/js/trader.src_sass_app_scss-src_App_Components_Elements_PositionsDrawer_helpers_index_ts-src_App_init-s-ba58f8.21624072a28accdd94ab.js",
+        "hash": "14148622072866542944"
+      },
+      {
+        "file": "Dockerfile-storybook",
+        "hash": "13548699327750840684"
+      },
+      {
+        "file": "trader-deploy/js/trader.higher-lower-trade-description.505ef70265999bf94f01.js",
+        "hash": "7204929558190938365"
+      },
+      {
+        "file": "docs/package_dependencies.png",
+        "hash": "3935936426562658644"
+      },
+      {
+        "file": "types/livechat.ts",
+        "hash": "11126349531720191700"
+      },
+      {
+        "file": "nx-cloud.env.example",
+        "hash": "7041907643926882943"
+      },
+      {
+        "file": "scripts/check-imports.js",
+        "hash": "1471907153355528980"
+      },
+      {
+        "file": ".github/pull_request_template.md",
+        "hash": "14250442855188194508"
+      },
+      {
+        "file": "nx.json",
+        "hash": "14811547688036371329"
+      },
+      {
+        "file": ".stylelintrc.js",
+        "hash": "18196883491111832388"
+      },
+      {
+        "file": ".github/workflows/generate_and_push_deriv_api_types.md",
+        "hash": "14752003551480571600"
+      },
+      {
+        "file": "trader-deploy/css/trader.trade-modals.b2813a3ad8395e4d70bb.css",
+        "hash": "17800781614911787104"
+      },
+      {
+        "file": "docs/Stylesheet/README.md",
+        "hash": "9878776503825364155"
+      },
+      {
+        "file": "trader-deploy/js/trader.trade-modals.33efcb90ba693405cccb.js",
+        "hash": "12292082380728728469"
+      },
+      {
+        "file": ".husky/pre-commit",
+        "hash": "3255892640244836420"
+      },
+      {
+        "file": "vercel.json",
+        "hash": "16982053696983051697"
+      },
+      {
+        "file": "trader-deploy/js/trader.contract.3a1c3e40bc8d6eee504b.js",
+        "hash": "11392428324914318193"
+      },
+      {
+        "file": "trader-deploy/js/trader.settings-chart.a25a0c0dcec576e89a5e.js",
+        "hash": "18226222858074094072"
+      },
+      {
+        "file": ".github/actions/npm_install_from_cache/action.yml",
+        "hash": "15691874985642919393"
+      },
+      {
+        "file": "types/svg.d.ts",
+        "hash": "2723891104647893293"
+      },
+      {
+        "file": "trader-deploy/css/trader.vendors-node_modules_cloudflare_stream-react_dist_stream-react_esm_js-node_modules_deriv_quil-0ca386.86a512f45fe6caaf98c3.css",
+        "hash": "3535281144555485548"
+      },
+      {
+        "file": "docs/git/README.md",
+        "hash": "14617688955422723122"
+      },
+      {
+        "file": "default.conf",
+        "hash": "5992324476747020483"
+      },
+      {
+        "file": "jest.setup.js",
+        "hash": "5272592626641043315"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "7083867210218692195"
+      },
+      {
+        "file": "sonar-project.properties",
+        "hash": "5007276303618536562"
+      },
+      {
+        "file": ".github/actions/publish_to_pages_test/action.yml",
+        "hash": "13438166771231315535"
+      },
+      {
+        "file": "docs/JavaScript/README.md",
+        "hash": "10646827030684562873"
+      },
+      {
+        "file": "__mocks__/translation.mock.js",
+        "hash": "11640752155346710381"
+      },
+      {
+        "file": "docs/Typescript/README.md",
+        "hash": "6216384093849808059"
+      },
+      {
+        "file": "hooks/pre-push.sh",
+        "hash": "5286686340530522257"
+      },
+      {
+        "file": "trader-deploy/js/trader.vendors-node_modules_react-content-loader_dist_react-content-loader_es_js-node_modules_react--d46026.ebb8e48c49fb6c5d9c4f.js",
+        "hash": "11880039786257220193"
       }
     ],
     "projectFileMap": {
@@ -23409,7 +23409,7 @@
         },
         {
           "file": "packages/core/dist/asset-manifest.json",
-          "hash": "9748237803105448728"
+          "hash": "10149461239924322423"
         },
         {
           "file": "packages/core/dist/assetlinks.json",
@@ -23853,7 +23853,7 @@
         },
         {
           "file": "packages/core/dist/css/core.chunk.complaints-policy.36c1d61007ee60f2627c.css",
-          "hash": "4206523485509155540"
+          "hash": "3244421341483603138"
         },
         {
           "file": "packages/core/dist/css/core.chunk.default-App_Components_Layout_Header_index_js-App_Components_Layout_Header_toggle-menu-drawer-9f9630.c788ce77115a5a574c3a.css",
@@ -23904,6 +23904,10 @@
           "hash": "10871400948339715841"
         },
         {
+          "file": "packages/core/dist/css/core.main~A.9fa9944c351a62e43edd.main.css",
+          "hash": "8533365691164089708"
+        },
+        {
           "file": "packages/core/dist/css/core.main~A.fadbbf0f102f8aacca33.main.css",
           "hash": "8203510273268883228"
         },
@@ -23917,19 +23921,19 @@
         },
         {
           "file": "packages/core/dist/custom404.html",
-          "hash": "3244421341483603138"
+          "hash": "9072915468084097492"
         },
         {
           "file": "packages/core/dist/favicon.ico",
-          "hash": "3244421341483603138"
+          "hash": "12427145182553429743"
         },
         {
           "file": "packages/core/dist/front-channel.html",
-          "hash": "3244421341483603138"
+          "hash": "13549820995836045777"
         },
         {
           "file": "packages/core/dist/index.html",
-          "hash": "5846514846897924598"
+          "hash": "15652675731661899596"
         },
         {
           "file": "packages/core/dist/js/core.chunk.account-info.12d3569d73272e68aff0.js",
@@ -24012,6 +24016,10 @@
           "hash": "6441248250828472034"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.account.a2782d0c2047c52856de.js",
+          "hash": "6441248250828472034"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.account.b0f2738bfeb52b2713cc.js",
           "hash": "6441248250828472034"
         },
@@ -24032,11 +24040,19 @@
           "hash": "13173434601749706644"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.ach-json.6f48220d63402bebf5f2.js",
+          "hash": "13173434601749706644"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.ach-json.8cd6735693a2579ab00b.js",
           "hash": "13173434601749706644"
         },
         {
           "file": "packages/core/dist/js/core.chunk.ach-json.9d00e570552ebf62655f.js",
+          "hash": "13173434601749706644"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.ach-json.a2782d0c2047c52856de.js",
           "hash": "13173434601749706644"
         },
         {
@@ -24064,6 +24080,10 @@
           "hash": "10411134784762531348"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.appstore.a2782d0c2047c52856de.js",
+          "hash": "3244421341483603138"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.appstore.b0f2738bfeb52b2713cc.js",
           "hash": "10411134784762531348"
         },
@@ -24084,11 +24104,19 @@
           "hash": "17190022384676271070"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.ar-json.6f48220d63402bebf5f2.js",
+          "hash": "17190022384676271070"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.ar-json.8cd6735693a2579ab00b.js",
           "hash": "17190022384676271070"
         },
         {
           "file": "packages/core/dist/js/core.chunk.ar-json.9d00e570552ebf62655f.js",
+          "hash": "17190022384676271070"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.ar-json.a2782d0c2047c52856de.js",
           "hash": "17190022384676271070"
         },
         {
@@ -24112,11 +24140,19 @@
           "hash": "4414959694987439472"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.bn-json.6f48220d63402bebf5f2.js",
+          "hash": "4414959694987439472"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.bn-json.8cd6735693a2579ab00b.js",
           "hash": "4414959694987439472"
         },
         {
           "file": "packages/core/dist/js/core.chunk.bn-json.9d00e570552ebf62655f.js",
+          "hash": "4414959694987439472"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.bn-json.a2782d0c2047c52856de.js",
           "hash": "4414959694987439472"
         },
         {
@@ -24144,6 +24180,10 @@
           "hash": "10944948917260820858"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.bot-web-ui-app.a2782d0c2047c52856de.js",
+          "hash": "10944948917260820858"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.bot-web-ui-app.b0f2738bfeb52b2713cc.js",
           "hash": "10944948917260820858"
         },
@@ -24165,6 +24205,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.cashier.8cd6735693a2579ab00b.js",
+          "hash": "97306271853386798"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.cashier.a2782d0c2047c52856de.js",
           "hash": "97306271853386798"
         },
         {
@@ -24192,6 +24236,10 @@
           "hash": "6692166840357237712"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.cfd-compare-accounts.a2782d0c2047c52856de.js",
+          "hash": "6692166840357237712"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.cfd-compare-accounts.b0f2738bfeb52b2713cc.js",
           "hash": "6692166840357237712"
         },
@@ -24213,6 +24261,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.cfd.8cd6735693a2579ab00b.js",
+          "hash": "547047242169446588"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.cfd.a2782d0c2047c52856de.js",
           "hash": "547047242169446588"
         },
         {
@@ -24240,6 +24292,10 @@
           "hash": "887558512664728763"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.complaints-policy.a2782d0c2047c52856de.js",
+          "hash": "3244421341483603138"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.complaints-policy.b0f2738bfeb52b2713cc.js",
           "hash": "887558512664728763"
         },
@@ -24260,11 +24316,19 @@
           "hash": "3751347814473247204"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.de-json.6f48220d63402bebf5f2.js",
+          "hash": "3751347814473247204"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.de-json.8cd6735693a2579ab00b.js",
           "hash": "3751347814473247204"
         },
         {
           "file": "packages/core/dist/js/core.chunk.de-json.9d00e570552ebf62655f.js",
+          "hash": "3751347814473247204"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.de-json.a2782d0c2047c52856de.js",
           "hash": "3751347814473247204"
         },
         {
@@ -24340,6 +24404,10 @@
           "hash": "6709646934990664835"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.default-api_src_index_ts-hooks_src_index_ts-stores_src_index_ts.a2782d0c2047c52856de.js",
+          "hash": "6709646934990664835"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.default-api_src_index_ts-hooks_src_index_ts-stores_src_index_ts.b0f2738bfeb52b2713cc.js",
           "hash": "6709646934990664835"
         },
@@ -24408,11 +24476,19 @@
           "hash": "16213304641806568312"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.es-json.6f48220d63402bebf5f2.js",
+          "hash": "16213304641806568312"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.es-json.8cd6735693a2579ab00b.js",
           "hash": "16213304641806568312"
         },
         {
           "file": "packages/core/dist/js/core.chunk.es-json.9d00e570552ebf62655f.js",
+          "hash": "16213304641806568312"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.es-json.a2782d0c2047c52856de.js",
           "hash": "16213304641806568312"
         },
         {
@@ -24436,11 +24512,19 @@
           "hash": "8910885756888847158"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.fr-json.6f48220d63402bebf5f2.js",
+          "hash": "8910885756888847158"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.fr-json.8cd6735693a2579ab00b.js",
           "hash": "8910885756888847158"
         },
         {
           "file": "packages/core/dist/js/core.chunk.fr-json.9d00e570552ebf62655f.js",
+          "hash": "8910885756888847158"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.fr-json.a2782d0c2047c52856de.js",
           "hash": "8910885756888847158"
         },
         {
@@ -24464,11 +24548,19 @@
           "hash": "11087579489453792456"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.id-json.6f48220d63402bebf5f2.js",
+          "hash": "11087579489453792456"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.id-json.8cd6735693a2579ab00b.js",
           "hash": "11087579489453792456"
         },
         {
           "file": "packages/core/dist/js/core.chunk.id-json.9d00e570552ebf62655f.js",
+          "hash": "11087579489453792456"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.id-json.a2782d0c2047c52856de.js",
           "hash": "11087579489453792456"
         },
         {
@@ -24492,11 +24584,19 @@
           "hash": "193224441487013231"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.it-json.6f48220d63402bebf5f2.js",
+          "hash": "193224441487013231"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.it-json.8cd6735693a2579ab00b.js",
           "hash": "193224441487013231"
         },
         {
           "file": "packages/core/dist/js/core.chunk.it-json.9d00e570552ebf62655f.js",
+          "hash": "193224441487013231"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.it-json.a2782d0c2047c52856de.js",
           "hash": "193224441487013231"
         },
         {
@@ -24520,11 +24620,19 @@
           "hash": "5483428297622555532"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.km-json.6f48220d63402bebf5f2.js",
+          "hash": "5483428297622555532"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.km-json.8cd6735693a2579ab00b.js",
           "hash": "5483428297622555532"
         },
         {
           "file": "packages/core/dist/js/core.chunk.km-json.9d00e570552ebf62655f.js",
+          "hash": "5483428297622555532"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.km-json.a2782d0c2047c52856de.js",
           "hash": "5483428297622555532"
         },
         {
@@ -24548,11 +24656,19 @@
           "hash": "11950911509265085159"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.ko-json.6f48220d63402bebf5f2.js",
+          "hash": "11950911509265085159"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.ko-json.8cd6735693a2579ab00b.js",
           "hash": "11950911509265085159"
         },
         {
           "file": "packages/core/dist/js/core.chunk.ko-json.9d00e570552ebf62655f.js",
+          "hash": "11950911509265085159"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.ko-json.a2782d0c2047c52856de.js",
           "hash": "11950911509265085159"
         },
         {
@@ -24576,11 +24692,19 @@
           "hash": "14526633079845981502"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.mn-json.6f48220d63402bebf5f2.js",
+          "hash": "14526633079845981502"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.mn-json.8cd6735693a2579ab00b.js",
           "hash": "14526633079845981502"
         },
         {
           "file": "packages/core/dist/js/core.chunk.mn-json.9d00e570552ebf62655f.js",
+          "hash": "14526633079845981502"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.mn-json.a2782d0c2047c52856de.js",
           "hash": "14526633079845981502"
         },
         {
@@ -26624,11 +26748,19 @@
           "hash": "13853468484644245538"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_af_js.6f48220d63402bebf5f2.js",
+          "hash": "13853468484644245538"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_af_js.8cd6735693a2579ab00b.js",
           "hash": "13853468484644245538"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_af_js.9d00e570552ebf62655f.js",
+          "hash": "13853468484644245538"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_af_js.a2782d0c2047c52856de.js",
           "hash": "13853468484644245538"
         },
         {
@@ -26652,11 +26784,19 @@
           "hash": "16276083973692541748"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-dz_js.6f48220d63402bebf5f2.js",
+          "hash": "16276083973692541748"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-dz_js.8cd6735693a2579ab00b.js",
           "hash": "16276083973692541748"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-dz_js.9d00e570552ebf62655f.js",
+          "hash": "16276083973692541748"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-dz_js.a2782d0c2047c52856de.js",
           "hash": "16276083973692541748"
         },
         {
@@ -26680,11 +26820,19 @@
           "hash": "8072410318071140338"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-kw_js.6f48220d63402bebf5f2.js",
+          "hash": "8072410318071140338"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-kw_js.8cd6735693a2579ab00b.js",
           "hash": "8072410318071140338"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-kw_js.9d00e570552ebf62655f.js",
+          "hash": "8072410318071140338"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-kw_js.a2782d0c2047c52856de.js",
           "hash": "8072410318071140338"
         },
         {
@@ -26708,11 +26856,19 @@
           "hash": "6168391675552523256"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ly_js.6f48220d63402bebf5f2.js",
+          "hash": "6168391675552523256"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ly_js.8cd6735693a2579ab00b.js",
           "hash": "6168391675552523256"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ly_js.9d00e570552ebf62655f.js",
+          "hash": "6168391675552523256"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ly_js.a2782d0c2047c52856de.js",
           "hash": "6168391675552523256"
         },
         {
@@ -26736,11 +26892,19 @@
           "hash": "9553260260027909730"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ma_js.6f48220d63402bebf5f2.js",
+          "hash": "9553260260027909730"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ma_js.8cd6735693a2579ab00b.js",
           "hash": "9553260260027909730"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ma_js.9d00e570552ebf62655f.js",
+          "hash": "9553260260027909730"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ma_js.a2782d0c2047c52856de.js",
           "hash": "9553260260027909730"
         },
         {
@@ -26764,11 +26928,19 @@
           "hash": "10882706031247524976"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ps_js.6f48220d63402bebf5f2.js",
+          "hash": "10882706031247524976"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ps_js.8cd6735693a2579ab00b.js",
           "hash": "10882706031247524976"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ps_js.9d00e570552ebf62655f.js",
+          "hash": "10882706031247524976"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-ps_js.a2782d0c2047c52856de.js",
           "hash": "10882706031247524976"
         },
         {
@@ -26792,11 +26964,19 @@
           "hash": "10025285642529656013"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-sa_js.6f48220d63402bebf5f2.js",
+          "hash": "10025285642529656013"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-sa_js.8cd6735693a2579ab00b.js",
           "hash": "10025285642529656013"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-sa_js.9d00e570552ebf62655f.js",
+          "hash": "10025285642529656013"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-sa_js.a2782d0c2047c52856de.js",
           "hash": "10025285642529656013"
         },
         {
@@ -26820,11 +27000,19 @@
           "hash": "3356240531396524500"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-tn_js.6f48220d63402bebf5f2.js",
+          "hash": "3356240531396524500"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-tn_js.8cd6735693a2579ab00b.js",
           "hash": "3356240531396524500"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-tn_js.9d00e570552ebf62655f.js",
+          "hash": "3356240531396524500"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar-tn_js.a2782d0c2047c52856de.js",
           "hash": "3356240531396524500"
         },
         {
@@ -26848,11 +27036,19 @@
           "hash": "5836978125014805506"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar_js.6f48220d63402bebf5f2.js",
+          "hash": "5836978125014805506"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar_js.8cd6735693a2579ab00b.js",
           "hash": "5836978125014805506"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar_js.9d00e570552ebf62655f.js",
+          "hash": "5836978125014805506"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ar_js.a2782d0c2047c52856de.js",
           "hash": "5836978125014805506"
         },
         {
@@ -26876,11 +27072,19 @@
           "hash": "13343035387750830495"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_az_js.6f48220d63402bebf5f2.js",
+          "hash": "13343035387750830495"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_az_js.8cd6735693a2579ab00b.js",
           "hash": "13343035387750830495"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_az_js.9d00e570552ebf62655f.js",
+          "hash": "13343035387750830495"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_az_js.a2782d0c2047c52856de.js",
           "hash": "13343035387750830495"
         },
         {
@@ -26904,11 +27108,19 @@
           "hash": "11443577603691824402"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_be_js.6f48220d63402bebf5f2.js",
+          "hash": "11443577603691824402"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_be_js.8cd6735693a2579ab00b.js",
           "hash": "11443577603691824402"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_be_js.9d00e570552ebf62655f.js",
+          "hash": "11443577603691824402"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_be_js.a2782d0c2047c52856de.js",
           "hash": "11443577603691824402"
         },
         {
@@ -26932,11 +27144,19 @@
           "hash": "17659034502439177163"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bg_js.6f48220d63402bebf5f2.js",
+          "hash": "17659034502439177163"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bg_js.8cd6735693a2579ab00b.js",
           "hash": "17659034502439177163"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bg_js.9d00e570552ebf62655f.js",
+          "hash": "17659034502439177163"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bg_js.a2782d0c2047c52856de.js",
           "hash": "17659034502439177163"
         },
         {
@@ -26960,11 +27180,19 @@
           "hash": "14535299421241951059"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bm_js.6f48220d63402bebf5f2.js",
+          "hash": "14535299421241951059"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bm_js.8cd6735693a2579ab00b.js",
           "hash": "14535299421241951059"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bm_js.9d00e570552ebf62655f.js",
+          "hash": "14535299421241951059"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bm_js.a2782d0c2047c52856de.js",
           "hash": "14535299421241951059"
         },
         {
@@ -26988,11 +27216,19 @@
           "hash": "8452214555191796225"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bn-bd_js.6f48220d63402bebf5f2.js",
+          "hash": "8452214555191796225"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bn-bd_js.8cd6735693a2579ab00b.js",
           "hash": "8452214555191796225"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bn-bd_js.9d00e570552ebf62655f.js",
+          "hash": "8452214555191796225"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bn-bd_js.a2782d0c2047c52856de.js",
           "hash": "8452214555191796225"
         },
         {
@@ -27016,11 +27252,19 @@
           "hash": "3679184471982056153"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bn_js.6f48220d63402bebf5f2.js",
+          "hash": "3679184471982056153"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bn_js.8cd6735693a2579ab00b.js",
           "hash": "3679184471982056153"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bn_js.9d00e570552ebf62655f.js",
+          "hash": "3679184471982056153"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bn_js.a2782d0c2047c52856de.js",
           "hash": "3679184471982056153"
         },
         {
@@ -27044,11 +27288,19 @@
           "hash": "11804239183964277649"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bo_js.6f48220d63402bebf5f2.js",
+          "hash": "11804239183964277649"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bo_js.8cd6735693a2579ab00b.js",
           "hash": "11804239183964277649"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bo_js.9d00e570552ebf62655f.js",
+          "hash": "11804239183964277649"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bo_js.a2782d0c2047c52856de.js",
           "hash": "11804239183964277649"
         },
         {
@@ -27072,11 +27324,19 @@
           "hash": "10820281991287733375"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_br_js.6f48220d63402bebf5f2.js",
+          "hash": "10820281991287733375"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_br_js.8cd6735693a2579ab00b.js",
           "hash": "10820281991287733375"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_br_js.9d00e570552ebf62655f.js",
+          "hash": "10820281991287733375"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_br_js.a2782d0c2047c52856de.js",
           "hash": "10820281991287733375"
         },
         {
@@ -27100,11 +27360,19 @@
           "hash": "11433178130427447741"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bs_js.6f48220d63402bebf5f2.js",
+          "hash": "11433178130427447741"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bs_js.8cd6735693a2579ab00b.js",
           "hash": "11433178130427447741"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bs_js.9d00e570552ebf62655f.js",
+          "hash": "11433178130427447741"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_bs_js.a2782d0c2047c52856de.js",
           "hash": "11433178130427447741"
         },
         {
@@ -27128,11 +27396,19 @@
           "hash": "7418233538420380035"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ca_js.6f48220d63402bebf5f2.js",
+          "hash": "7418233538420380035"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ca_js.8cd6735693a2579ab00b.js",
           "hash": "7418233538420380035"
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ca_js.9d00e570552ebf62655f.js",
+          "hash": "7418233538420380035"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ca_js.a2782d0c2047c52856de.js",
           "hash": "7418233538420380035"
         },
         {
@@ -27156,7 +27432,15 @@
           "hash": "6011797399601167066"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_cs_js.6f48220d63402bebf5f2.js",
+          "hash": "6011797399601167066"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_cs_js.8cd6735693a2579ab00b.js",
+          "hash": "6011797399601167066"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_cs_js.a2782d0c2047c52856de.js",
           "hash": "6011797399601167066"
         },
         {
@@ -27180,7 +27464,15 @@
           "hash": "17736743670249289638"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_cv_js.6f48220d63402bebf5f2.js",
+          "hash": "17736743670249289638"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_cv_js.8cd6735693a2579ab00b.js",
+          "hash": "17736743670249289638"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_cv_js.a2782d0c2047c52856de.js",
           "hash": "17736743670249289638"
         },
         {
@@ -27204,7 +27496,15 @@
           "hash": "4404635827532172868"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_cy_js.6f48220d63402bebf5f2.js",
+          "hash": "4404635827532172868"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_cy_js.8cd6735693a2579ab00b.js",
+          "hash": "4404635827532172868"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_cy_js.a2782d0c2047c52856de.js",
           "hash": "4404635827532172868"
         },
         {
@@ -27228,7 +27528,15 @@
           "hash": "2765290542787844348"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_da_js.6f48220d63402bebf5f2.js",
+          "hash": "2765290542787844348"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_da_js.8cd6735693a2579ab00b.js",
+          "hash": "2765290542787844348"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_da_js.a2782d0c2047c52856de.js",
           "hash": "2765290542787844348"
         },
         {
@@ -27252,7 +27560,15 @@
           "hash": "11344676090705029210"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_de-at_js.6f48220d63402bebf5f2.js",
+          "hash": "11344676090705029210"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_de-at_js.8cd6735693a2579ab00b.js",
+          "hash": "11344676090705029210"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_de-at_js.a2782d0c2047c52856de.js",
           "hash": "11344676090705029210"
         },
         {
@@ -27276,7 +27592,15 @@
           "hash": "12353217069578213254"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_de-ch_js.6f48220d63402bebf5f2.js",
+          "hash": "12353217069578213254"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_de-ch_js.8cd6735693a2579ab00b.js",
+          "hash": "12353217069578213254"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_de-ch_js.a2782d0c2047c52856de.js",
           "hash": "12353217069578213254"
         },
         {
@@ -27300,7 +27624,15 @@
           "hash": "2500794334452882745"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_de_js.6f48220d63402bebf5f2.js",
+          "hash": "2500794334452882745"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_de_js.8cd6735693a2579ab00b.js",
+          "hash": "2500794334452882745"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_de_js.a2782d0c2047c52856de.js",
           "hash": "2500794334452882745"
         },
         {
@@ -27324,7 +27656,15 @@
           "hash": "3641892422303390568"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_dv_js.6f48220d63402bebf5f2.js",
+          "hash": "3641892422303390568"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_dv_js.8cd6735693a2579ab00b.js",
+          "hash": "3641892422303390568"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_dv_js.a2782d0c2047c52856de.js",
           "hash": "3641892422303390568"
         },
         {
@@ -27348,7 +27688,15 @@
           "hash": "8758906210536179659"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_el_js.6f48220d63402bebf5f2.js",
+          "hash": "8758906210536179659"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_el_js.8cd6735693a2579ab00b.js",
+          "hash": "8758906210536179659"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_el_js.a2782d0c2047c52856de.js",
           "hash": "8758906210536179659"
         },
         {
@@ -27372,7 +27720,15 @@
           "hash": "5828201764040374527"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-au_js.6f48220d63402bebf5f2.js",
+          "hash": "5828201764040374527"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-au_js.8cd6735693a2579ab00b.js",
+          "hash": "5828201764040374527"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-au_js.a2782d0c2047c52856de.js",
           "hash": "5828201764040374527"
         },
         {
@@ -27396,7 +27752,15 @@
           "hash": "8989990711855217281"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-ca_js.6f48220d63402bebf5f2.js",
+          "hash": "8989990711855217281"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-ca_js.8cd6735693a2579ab00b.js",
+          "hash": "8989990711855217281"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-ca_js.a2782d0c2047c52856de.js",
           "hash": "8989990711855217281"
         },
         {
@@ -27416,7 +27780,15 @@
           "hash": "8352105068078038771"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-gb_js.6f48220d63402bebf5f2.js",
+          "hash": "8352105068078038771"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-gb_js.8cd6735693a2579ab00b.js",
+          "hash": "8352105068078038771"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-gb_js.a2782d0c2047c52856de.js",
           "hash": "8352105068078038771"
         },
         {
@@ -27436,7 +27808,15 @@
           "hash": "13543067835306362881"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-ie_js.6f48220d63402bebf5f2.js",
+          "hash": "13543067835306362881"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-ie_js.8cd6735693a2579ab00b.js",
+          "hash": "13543067835306362881"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-ie_js.a2782d0c2047c52856de.js",
           "hash": "13543067835306362881"
         },
         {
@@ -27456,7 +27836,15 @@
           "hash": "8529529767956435843"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-il_js.6f48220d63402bebf5f2.js",
+          "hash": "8529529767956435843"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-il_js.8cd6735693a2579ab00b.js",
+          "hash": "8529529767956435843"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-il_js.a2782d0c2047c52856de.js",
           "hash": "8529529767956435843"
         },
         {
@@ -27476,7 +27864,15 @@
           "hash": "425321921726257297"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-in_js.6f48220d63402bebf5f2.js",
+          "hash": "425321921726257297"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-in_js.8cd6735693a2579ab00b.js",
+          "hash": "425321921726257297"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-in_js.a2782d0c2047c52856de.js",
           "hash": "425321921726257297"
         },
         {
@@ -27496,7 +27892,15 @@
           "hash": "1911589518490730138"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-nz_js.6f48220d63402bebf5f2.js",
+          "hash": "1911589518490730138"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-nz_js.8cd6735693a2579ab00b.js",
+          "hash": "1911589518490730138"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-nz_js.a2782d0c2047c52856de.js",
           "hash": "1911589518490730138"
         },
         {
@@ -27516,7 +27920,15 @@
           "hash": "9136199797715127626"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-sg_js.6f48220d63402bebf5f2.js",
+          "hash": "9136199797715127626"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-sg_js.8cd6735693a2579ab00b.js",
+          "hash": "9136199797715127626"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_en-sg_js.a2782d0c2047c52856de.js",
           "hash": "9136199797715127626"
         },
         {
@@ -27536,7 +27948,15 @@
           "hash": "4892376699310276222"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_eo_js.6f48220d63402bebf5f2.js",
+          "hash": "4892376699310276222"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_eo_js.8cd6735693a2579ab00b.js",
+          "hash": "4892376699310276222"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_eo_js.a2782d0c2047c52856de.js",
           "hash": "4892376699310276222"
         },
         {
@@ -27552,7 +27972,15 @@
           "hash": "7326648962146182887"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es-do_js.6f48220d63402bebf5f2.js",
+          "hash": "7326648962146182887"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es-do_js.8cd6735693a2579ab00b.js",
+          "hash": "7326648962146182887"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es-do_js.a2782d0c2047c52856de.js",
           "hash": "7326648962146182887"
         },
         {
@@ -27568,7 +27996,15 @@
           "hash": "4611175362501212112"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es-mx_js.6f48220d63402bebf5f2.js",
+          "hash": "4611175362501212112"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es-mx_js.8cd6735693a2579ab00b.js",
+          "hash": "4611175362501212112"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es-mx_js.a2782d0c2047c52856de.js",
           "hash": "4611175362501212112"
         },
         {
@@ -27584,7 +28020,15 @@
           "hash": "14219544342277871043"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es-us_js.6f48220d63402bebf5f2.js",
+          "hash": "14219544342277871043"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es-us_js.8cd6735693a2579ab00b.js",
+          "hash": "14219544342277871043"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es-us_js.a2782d0c2047c52856de.js",
           "hash": "14219544342277871043"
         },
         {
@@ -27600,7 +28044,15 @@
           "hash": "18395807954875615672"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es_js.6f48220d63402bebf5f2.js",
+          "hash": "18395807954875615672"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es_js.8cd6735693a2579ab00b.js",
+          "hash": "18395807954875615672"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_es_js.a2782d0c2047c52856de.js",
           "hash": "18395807954875615672"
         },
         {
@@ -27616,7 +28068,15 @@
           "hash": "10421476374175993152"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_et_js.6f48220d63402bebf5f2.js",
+          "hash": "10421476374175993152"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_et_js.8cd6735693a2579ab00b.js",
+          "hash": "10421476374175993152"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_et_js.a2782d0c2047c52856de.js",
           "hash": "10421476374175993152"
         },
         {
@@ -27632,7 +28092,15 @@
           "hash": "18313066155587885130"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_eu_js.6f48220d63402bebf5f2.js",
+          "hash": "18313066155587885130"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_eu_js.8cd6735693a2579ab00b.js",
+          "hash": "18313066155587885130"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_eu_js.a2782d0c2047c52856de.js",
           "hash": "18313066155587885130"
         },
         {
@@ -27648,7 +28116,15 @@
           "hash": "15688754320187375371"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fa_js.6f48220d63402bebf5f2.js",
+          "hash": "15688754320187375371"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fa_js.8cd6735693a2579ab00b.js",
+          "hash": "15688754320187375371"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fa_js.a2782d0c2047c52856de.js",
           "hash": "15688754320187375371"
         },
         {
@@ -27664,7 +28140,15 @@
           "hash": "16181162726169417691"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fi_js.6f48220d63402bebf5f2.js",
+          "hash": "16181162726169417691"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fi_js.8cd6735693a2579ab00b.js",
+          "hash": "16181162726169417691"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fi_js.a2782d0c2047c52856de.js",
           "hash": "16181162726169417691"
         },
         {
@@ -27680,7 +28164,15 @@
           "hash": "15841617305244545694"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fil_js.6f48220d63402bebf5f2.js",
+          "hash": "15841617305244545694"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fil_js.8cd6735693a2579ab00b.js",
+          "hash": "15841617305244545694"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fil_js.a2782d0c2047c52856de.js",
           "hash": "15841617305244545694"
         },
         {
@@ -27696,7 +28188,15 @@
           "hash": "13874831585829489469"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fo_js.6f48220d63402bebf5f2.js",
+          "hash": "13874831585829489469"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fo_js.8cd6735693a2579ab00b.js",
+          "hash": "13874831585829489469"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fo_js.a2782d0c2047c52856de.js",
           "hash": "13874831585829489469"
         },
         {
@@ -27712,7 +28212,15 @@
           "hash": "18172353442234809172"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fr-ca_js.6f48220d63402bebf5f2.js",
+          "hash": "18172353442234809172"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fr-ca_js.8cd6735693a2579ab00b.js",
+          "hash": "18172353442234809172"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fr-ca_js.a2782d0c2047c52856de.js",
           "hash": "18172353442234809172"
         },
         {
@@ -27728,7 +28236,15 @@
           "hash": "7558361586836545270"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fr-ch_js.6f48220d63402bebf5f2.js",
+          "hash": "7558361586836545270"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fr-ch_js.8cd6735693a2579ab00b.js",
+          "hash": "7558361586836545270"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fr-ch_js.a2782d0c2047c52856de.js",
           "hash": "7558361586836545270"
         },
         {
@@ -27744,7 +28260,15 @@
           "hash": "17693310231162409679"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fr_js.6f48220d63402bebf5f2.js",
+          "hash": "17693310231162409679"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fr_js.8cd6735693a2579ab00b.js",
+          "hash": "17693310231162409679"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fr_js.a2782d0c2047c52856de.js",
           "hash": "17693310231162409679"
         },
         {
@@ -27760,7 +28284,15 @@
           "hash": "4334855306158078134"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fy_js.6f48220d63402bebf5f2.js",
+          "hash": "4334855306158078134"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fy_js.8cd6735693a2579ab00b.js",
+          "hash": "4334855306158078134"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_fy_js.a2782d0c2047c52856de.js",
           "hash": "4334855306158078134"
         },
         {
@@ -27776,7 +28308,15 @@
           "hash": "16042638650726307123"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ga_js.6f48220d63402bebf5f2.js",
+          "hash": "16042638650726307123"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ga_js.8cd6735693a2579ab00b.js",
+          "hash": "16042638650726307123"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ga_js.a2782d0c2047c52856de.js",
           "hash": "16042638650726307123"
         },
         {
@@ -27792,7 +28332,15 @@
           "hash": "1775436629218366385"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gd_js.6f48220d63402bebf5f2.js",
+          "hash": "1775436629218366385"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gd_js.8cd6735693a2579ab00b.js",
+          "hash": "1775436629218366385"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gd_js.a2782d0c2047c52856de.js",
           "hash": "1775436629218366385"
         },
         {
@@ -27808,7 +28356,15 @@
           "hash": "1764857323513780800"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gl_js.6f48220d63402bebf5f2.js",
+          "hash": "1764857323513780800"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gl_js.8cd6735693a2579ab00b.js",
+          "hash": "1764857323513780800"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gl_js.a2782d0c2047c52856de.js",
           "hash": "1764857323513780800"
         },
         {
@@ -27824,7 +28380,15 @@
           "hash": "7720058833750177813"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gom-deva_js.6f48220d63402bebf5f2.js",
+          "hash": "7720058833750177813"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gom-deva_js.8cd6735693a2579ab00b.js",
+          "hash": "7720058833750177813"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gom-deva_js.a2782d0c2047c52856de.js",
           "hash": "7720058833750177813"
         },
         {
@@ -27840,7 +28404,15 @@
           "hash": "5424107599383668751"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gom-latn_js.6f48220d63402bebf5f2.js",
+          "hash": "5424107599383668751"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gom-latn_js.8cd6735693a2579ab00b.js",
+          "hash": "5424107599383668751"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gom-latn_js.a2782d0c2047c52856de.js",
           "hash": "5424107599383668751"
         },
         {
@@ -27856,7 +28428,15 @@
           "hash": "13509498384881585387"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gu_js.6f48220d63402bebf5f2.js",
+          "hash": "13509498384881585387"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gu_js.8cd6735693a2579ab00b.js",
+          "hash": "13509498384881585387"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_gu_js.a2782d0c2047c52856de.js",
           "hash": "13509498384881585387"
         },
         {
@@ -27872,7 +28452,15 @@
           "hash": "2106045529428228728"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_he_js.6f48220d63402bebf5f2.js",
+          "hash": "2106045529428228728"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_he_js.8cd6735693a2579ab00b.js",
+          "hash": "2106045529428228728"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_he_js.a2782d0c2047c52856de.js",
           "hash": "2106045529428228728"
         },
         {
@@ -27888,7 +28476,15 @@
           "hash": "15346268234606086817"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hi_js.6f48220d63402bebf5f2.js",
+          "hash": "15346268234606086817"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hi_js.8cd6735693a2579ab00b.js",
+          "hash": "15346268234606086817"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hi_js.a2782d0c2047c52856de.js",
           "hash": "15346268234606086817"
         },
         {
@@ -27904,7 +28500,15 @@
           "hash": "1051904254085972356"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hr_js.6f48220d63402bebf5f2.js",
+          "hash": "1051904254085972356"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hr_js.8cd6735693a2579ab00b.js",
+          "hash": "1051904254085972356"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hr_js.a2782d0c2047c52856de.js",
           "hash": "1051904254085972356"
         },
         {
@@ -27920,7 +28524,15 @@
           "hash": "8312595611667336014"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hu_js.6f48220d63402bebf5f2.js",
+          "hash": "8312595611667336014"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hu_js.8cd6735693a2579ab00b.js",
+          "hash": "8312595611667336014"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hu_js.a2782d0c2047c52856de.js",
           "hash": "8312595611667336014"
         },
         {
@@ -27936,7 +28548,15 @@
           "hash": "12283514469504545673"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hy-am_js.6f48220d63402bebf5f2.js",
+          "hash": "12283514469504545673"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hy-am_js.8cd6735693a2579ab00b.js",
+          "hash": "12283514469504545673"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_hy-am_js.a2782d0c2047c52856de.js",
           "hash": "12283514469504545673"
         },
         {
@@ -27952,7 +28572,15 @@
           "hash": "10600156068305427274"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_id_js.6f48220d63402bebf5f2.js",
+          "hash": "10600156068305427274"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_id_js.8cd6735693a2579ab00b.js",
+          "hash": "10600156068305427274"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_id_js.a2782d0c2047c52856de.js",
           "hash": "10600156068305427274"
         },
         {
@@ -27968,7 +28596,15 @@
           "hash": "2700425662152461138"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_is_js.6f48220d63402bebf5f2.js",
+          "hash": "2700425662152461138"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_is_js.8cd6735693a2579ab00b.js",
+          "hash": "2700425662152461138"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_is_js.a2782d0c2047c52856de.js",
           "hash": "2700425662152461138"
         },
         {
@@ -27984,7 +28620,15 @@
           "hash": "7335406078260888775"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_it-ch_js.6f48220d63402bebf5f2.js",
+          "hash": "7335406078260888775"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_it-ch_js.8cd6735693a2579ab00b.js",
+          "hash": "7335406078260888775"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_it-ch_js.a2782d0c2047c52856de.js",
           "hash": "7335406078260888775"
         },
         {
@@ -28000,7 +28644,15 @@
           "hash": "4335731747599771485"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_it_js.6f48220d63402bebf5f2.js",
+          "hash": "4335731747599771485"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_it_js.8cd6735693a2579ab00b.js",
+          "hash": "4335731747599771485"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_it_js.a2782d0c2047c52856de.js",
           "hash": "4335731747599771485"
         },
         {
@@ -28016,7 +28668,15 @@
           "hash": "18348293804096841894"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ja_js.6f48220d63402bebf5f2.js",
+          "hash": "18348293804096841894"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ja_js.8cd6735693a2579ab00b.js",
+          "hash": "18348293804096841894"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ja_js.a2782d0c2047c52856de.js",
           "hash": "18348293804096841894"
         },
         {
@@ -28032,7 +28692,15 @@
           "hash": "4532507859583205651"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_jv_js.6f48220d63402bebf5f2.js",
+          "hash": "4532507859583205651"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_jv_js.8cd6735693a2579ab00b.js",
+          "hash": "4532507859583205651"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_jv_js.a2782d0c2047c52856de.js",
           "hash": "4532507859583205651"
         },
         {
@@ -28048,7 +28716,15 @@
           "hash": "4473521775599872151"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ka_js.6f48220d63402bebf5f2.js",
+          "hash": "4473521775599872151"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ka_js.8cd6735693a2579ab00b.js",
+          "hash": "4473521775599872151"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ka_js.a2782d0c2047c52856de.js",
           "hash": "4473521775599872151"
         },
         {
@@ -28068,6 +28744,10 @@
           "hash": "6365295061471776570"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_kk_js.a2782d0c2047c52856de.js",
+          "hash": "6365295061471776570"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_kk_js.b0f2738bfeb52b2713cc.js",
           "hash": "6365295061471776570"
         },
@@ -28081,6 +28761,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_km_js.8cd6735693a2579ab00b.js",
+          "hash": "10869255698396516761"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_km_js.a2782d0c2047c52856de.js",
           "hash": "10869255698396516761"
         },
         {
@@ -28100,6 +28784,10 @@
           "hash": "12580864168652877745"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_kn_js.a2782d0c2047c52856de.js",
+          "hash": "12580864168652877745"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_kn_js.b0f2738bfeb52b2713cc.js",
           "hash": "12580864168652877745"
         },
@@ -28113,6 +28801,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ko_js.8cd6735693a2579ab00b.js",
+          "hash": "8231786665756951969"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ko_js.a2782d0c2047c52856de.js",
           "hash": "8231786665756951969"
         },
         {
@@ -28132,6 +28824,10 @@
           "hash": "8689331248768239469"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ku-kmr_js.a2782d0c2047c52856de.js",
+          "hash": "8689331248768239469"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ku-kmr_js.b0f2738bfeb52b2713cc.js",
           "hash": "8689331248768239469"
         },
@@ -28145,6 +28841,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ku_js.8cd6735693a2579ab00b.js",
+          "hash": "17475787806304449152"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ku_js.a2782d0c2047c52856de.js",
           "hash": "17475787806304449152"
         },
         {
@@ -28164,6 +28864,10 @@
           "hash": "1098062751208796233"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ky_js.a2782d0c2047c52856de.js",
+          "hash": "1098062751208796233"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ky_js.b0f2738bfeb52b2713cc.js",
           "hash": "1098062751208796233"
         },
@@ -28177,6 +28881,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_lb_js.8cd6735693a2579ab00b.js",
+          "hash": "10463277737275199778"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_lb_js.a2782d0c2047c52856de.js",
           "hash": "10463277737275199778"
         },
         {
@@ -28196,6 +28904,10 @@
           "hash": "1046208672174665854"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_lo_js.a2782d0c2047c52856de.js",
+          "hash": "1046208672174665854"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_lo_js.b0f2738bfeb52b2713cc.js",
           "hash": "1046208672174665854"
         },
@@ -28209,6 +28921,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_lt_js.8cd6735693a2579ab00b.js",
+          "hash": "6137043085836656520"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_lt_js.a2782d0c2047c52856de.js",
           "hash": "6137043085836656520"
         },
         {
@@ -28228,6 +28944,10 @@
           "hash": "15133541283162845493"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_lv_js.a2782d0c2047c52856de.js",
+          "hash": "15133541283162845493"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_lv_js.b0f2738bfeb52b2713cc.js",
           "hash": "15133541283162845493"
         },
@@ -28241,6 +28961,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_me_js.8cd6735693a2579ab00b.js",
+          "hash": "8965418724174226961"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_me_js.a2782d0c2047c52856de.js",
           "hash": "8965418724174226961"
         },
         {
@@ -28260,6 +28984,10 @@
           "hash": "14732708567139728110"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_mi_js.a2782d0c2047c52856de.js",
+          "hash": "14732708567139728110"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_mi_js.b0f2738bfeb52b2713cc.js",
           "hash": "14732708567139728110"
         },
@@ -28273,6 +29001,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_mk_js.8cd6735693a2579ab00b.js",
+          "hash": "12745156184583390714"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_mk_js.a2782d0c2047c52856de.js",
           "hash": "12745156184583390714"
         },
         {
@@ -28292,6 +29024,10 @@
           "hash": "9992574784972352009"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ml_js.a2782d0c2047c52856de.js",
+          "hash": "9992574784972352009"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ml_js.b0f2738bfeb52b2713cc.js",
           "hash": "9992574784972352009"
         },
@@ -28305,6 +29041,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_mn_js.8cd6735693a2579ab00b.js",
+          "hash": "15322702434644672684"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_mn_js.a2782d0c2047c52856de.js",
           "hash": "15322702434644672684"
         },
         {
@@ -28324,6 +29064,10 @@
           "hash": "12327123228013068961"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_mr_js.a2782d0c2047c52856de.js",
+          "hash": "12327123228013068961"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_mr_js.b0f2738bfeb52b2713cc.js",
           "hash": "12327123228013068961"
         },
@@ -28337,6 +29081,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ms-my_js.8cd6735693a2579ab00b.js",
+          "hash": "9092376015264069014"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ms-my_js.a2782d0c2047c52856de.js",
           "hash": "9092376015264069014"
         },
         {
@@ -28356,6 +29104,10 @@
           "hash": "14277095511056300090"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ms_js.a2782d0c2047c52856de.js",
+          "hash": "14277095511056300090"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ms_js.b0f2738bfeb52b2713cc.js",
           "hash": "14277095511056300090"
         },
@@ -28369,6 +29121,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_mt_js.8cd6735693a2579ab00b.js",
+          "hash": "6544742248786885539"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_mt_js.a2782d0c2047c52856de.js",
           "hash": "6544742248786885539"
         },
         {
@@ -28388,6 +29144,10 @@
           "hash": "7092463458680679015"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_my_js.a2782d0c2047c52856de.js",
+          "hash": "7092463458680679015"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_my_js.b0f2738bfeb52b2713cc.js",
           "hash": "7092463458680679015"
         },
@@ -28401,6 +29161,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_nb_js.8cd6735693a2579ab00b.js",
+          "hash": "6872057570403702971"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_nb_js.a2782d0c2047c52856de.js",
           "hash": "6872057570403702971"
         },
         {
@@ -28420,6 +29184,10 @@
           "hash": "8684926045030830692"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ne_js.a2782d0c2047c52856de.js",
+          "hash": "8684926045030830692"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ne_js.b0f2738bfeb52b2713cc.js",
           "hash": "8684926045030830692"
         },
@@ -28433,6 +29201,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_nl-be_js.8cd6735693a2579ab00b.js",
+          "hash": "6501284871718775229"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_nl-be_js.a2782d0c2047c52856de.js",
           "hash": "6501284871718775229"
         },
         {
@@ -28452,6 +29224,10 @@
           "hash": "10474425091886731263"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_nl_js.a2782d0c2047c52856de.js",
+          "hash": "10474425091886731263"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_nl_js.b0f2738bfeb52b2713cc.js",
           "hash": "10474425091886731263"
         },
@@ -28465,6 +29241,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_nn_js.8cd6735693a2579ab00b.js",
+          "hash": "428696506387351287"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_nn_js.a2782d0c2047c52856de.js",
           "hash": "428696506387351287"
         },
         {
@@ -28484,6 +29264,10 @@
           "hash": "456260060373962279"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_oc-lnc_js.a2782d0c2047c52856de.js",
+          "hash": "456260060373962279"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_oc-lnc_js.b0f2738bfeb52b2713cc.js",
           "hash": "456260060373962279"
         },
@@ -28497,6 +29281,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_pa-in_js.8cd6735693a2579ab00b.js",
+          "hash": "14339788252176445416"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_pa-in_js.a2782d0c2047c52856de.js",
           "hash": "14339788252176445416"
         },
         {
@@ -28516,6 +29304,10 @@
           "hash": "16391045388181071762"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_pl_js.a2782d0c2047c52856de.js",
+          "hash": "16391045388181071762"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_pl_js.b0f2738bfeb52b2713cc.js",
           "hash": "16391045388181071762"
         },
@@ -28529,6 +29321,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_pt-br_js.8cd6735693a2579ab00b.js",
+          "hash": "3809740161520539945"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_pt-br_js.a2782d0c2047c52856de.js",
           "hash": "3809740161520539945"
         },
         {
@@ -28548,6 +29344,10 @@
           "hash": "7838871344333506112"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_pt_js.a2782d0c2047c52856de.js",
+          "hash": "7838871344333506112"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_pt_js.b0f2738bfeb52b2713cc.js",
           "hash": "7838871344333506112"
         },
@@ -28561,6 +29361,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ro_js.8cd6735693a2579ab00b.js",
+          "hash": "133988745272347425"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ro_js.a2782d0c2047c52856de.js",
           "hash": "133988745272347425"
         },
         {
@@ -28580,6 +29384,10 @@
           "hash": "12404447922026127507"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ru_js.a2782d0c2047c52856de.js",
+          "hash": "12404447922026127507"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ru_js.b0f2738bfeb52b2713cc.js",
           "hash": "12404447922026127507"
         },
@@ -28593,6 +29401,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sd_js.8cd6735693a2579ab00b.js",
+          "hash": "13418301302710186967"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sd_js.a2782d0c2047c52856de.js",
           "hash": "13418301302710186967"
         },
         {
@@ -28612,6 +29424,10 @@
           "hash": "12568228800953000998"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_se_js.a2782d0c2047c52856de.js",
+          "hash": "12568228800953000998"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_se_js.b0f2738bfeb52b2713cc.js",
           "hash": "12568228800953000998"
         },
@@ -28625,6 +29441,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_si_js.8cd6735693a2579ab00b.js",
+          "hash": "14913133363944532088"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_si_js.a2782d0c2047c52856de.js",
           "hash": "14913133363944532088"
         },
         {
@@ -28644,6 +29464,10 @@
           "hash": "4882546002807742736"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sk_js.a2782d0c2047c52856de.js",
+          "hash": "4882546002807742736"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sk_js.b0f2738bfeb52b2713cc.js",
           "hash": "4882546002807742736"
         },
@@ -28657,6 +29481,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sl_js.8cd6735693a2579ab00b.js",
+          "hash": "10293920826540291972"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sl_js.a2782d0c2047c52856de.js",
           "hash": "10293920826540291972"
         },
         {
@@ -28676,6 +29504,10 @@
           "hash": "15883183075870784354"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sq_js.a2782d0c2047c52856de.js",
+          "hash": "15883183075870784354"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sq_js.b0f2738bfeb52b2713cc.js",
           "hash": "15883183075870784354"
         },
@@ -28689,6 +29521,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sr-cyrl_js.8cd6735693a2579ab00b.js",
+          "hash": "12068243857344553176"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sr-cyrl_js.a2782d0c2047c52856de.js",
           "hash": "12068243857344553176"
         },
         {
@@ -28708,6 +29544,10 @@
           "hash": "2269436295368614751"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sr_js.a2782d0c2047c52856de.js",
+          "hash": "2269436295368614751"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sr_js.b0f2738bfeb52b2713cc.js",
           "hash": "2269436295368614751"
         },
@@ -28721,6 +29561,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ss_js.8cd6735693a2579ab00b.js",
+          "hash": "2710234156172402523"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_ss_js.a2782d0c2047c52856de.js",
           "hash": "2710234156172402523"
         },
         {
@@ -28740,6 +29584,10 @@
           "hash": "4591604488980124772"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sv_js.a2782d0c2047c52856de.js",
+          "hash": "4591604488980124772"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sv_js.b0f2738bfeb52b2713cc.js",
           "hash": "4591604488980124772"
         },
@@ -28753,6 +29601,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sw_js.8cd6735693a2579ab00b.js",
+          "hash": "8615197889796555554"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.node_modules_moment_locale_sw_js.a2782d0c2047c52856de.js",
           "hash": "8615197889796555554"
         },
         {
@@ -29128,6 +29980,10 @@
           "hash": "3857651836834165456"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.p2p.a2782d0c2047c52856de.js",
+          "hash": "3857651836834165456"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.p2p.b0f2738bfeb52b2713cc.js",
           "hash": "3857651836834165456"
         },
@@ -29148,11 +30004,19 @@
           "hash": "17537802535424940819"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.pl-json.6f48220d63402bebf5f2.js",
+          "hash": "17537802535424940819"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.pl-json.8cd6735693a2579ab00b.js",
           "hash": "17537802535424940819"
         },
         {
           "file": "packages/core/dist/js/core.chunk.pl-json.9d00e570552ebf62655f.js",
+          "hash": "17537802535424940819"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.pl-json.a2782d0c2047c52856de.js",
           "hash": "17537802535424940819"
         },
         {
@@ -29176,11 +30040,19 @@
           "hash": "8702500001396020947"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.pt-json.6f48220d63402bebf5f2.js",
+          "hash": "8702500001396020947"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.pt-json.8cd6735693a2579ab00b.js",
           "hash": "8702500001396020947"
         },
         {
           "file": "packages/core/dist/js/core.chunk.pt-json.9d00e570552ebf62655f.js",
+          "hash": "8702500001396020947"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.pt-json.a2782d0c2047c52856de.js",
           "hash": "8702500001396020947"
         },
         {
@@ -29205,6 +30077,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.reports.8cd6735693a2579ab00b.js",
+          "hash": "25064678361490543"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.reports.a2782d0c2047c52856de.js",
           "hash": "25064678361490543"
         },
         {
@@ -29300,11 +30176,19 @@
           "hash": "433256229844322564"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.ru-json.6f48220d63402bebf5f2.js",
+          "hash": "433256229844322564"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.ru-json.8cd6735693a2579ab00b.js",
           "hash": "433256229844322564"
         },
         {
           "file": "packages/core/dist/js/core.chunk.ru-json.9d00e570552ebf62655f.js",
+          "hash": "433256229844322564"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.ru-json.a2782d0c2047c52856de.js",
           "hash": "433256229844322564"
         },
         {
@@ -29376,11 +30260,19 @@
           "hash": "6044078977929547671"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.si-json.6f48220d63402bebf5f2.js",
+          "hash": "6044078977929547671"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.si-json.8cd6735693a2579ab00b.js",
           "hash": "6044078977929547671"
         },
         {
           "file": "packages/core/dist/js/core.chunk.si-json.9d00e570552ebf62655f.js",
+          "hash": "6044078977929547671"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.si-json.a2782d0c2047c52856de.js",
           "hash": "6044078977929547671"
         },
         {
@@ -29404,11 +30296,19 @@
           "hash": "9318379862859597469"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.sw-json.6f48220d63402bebf5f2.js",
+          "hash": "9318379862859597469"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.sw-json.8cd6735693a2579ab00b.js",
           "hash": "9318379862859597469"
         },
         {
           "file": "packages/core/dist/js/core.chunk.sw-json.9d00e570552ebf62655f.js",
+          "hash": "9318379862859597469"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.sw-json.a2782d0c2047c52856de.js",
           "hash": "9318379862859597469"
         },
         {
@@ -29432,11 +30332,19 @@
           "hash": "5283508766973952622"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.th-json.6f48220d63402bebf5f2.js",
+          "hash": "5283508766973952622"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.th-json.8cd6735693a2579ab00b.js",
           "hash": "5283508766973952622"
         },
         {
           "file": "packages/core/dist/js/core.chunk.th-json.9d00e570552ebf62655f.js",
+          "hash": "5283508766973952622"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.th-json.a2782d0c2047c52856de.js",
           "hash": "5283508766973952622"
         },
         {
@@ -29480,11 +30388,19 @@
           "hash": "17018817947603053025"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.tr-json.6f48220d63402bebf5f2.js",
+          "hash": "17018817947603053025"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.tr-json.8cd6735693a2579ab00b.js",
           "hash": "17018817947603053025"
         },
         {
           "file": "packages/core/dist/js/core.chunk.tr-json.9d00e570552ebf62655f.js",
+          "hash": "17018817947603053025"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.tr-json.a2782d0c2047c52856de.js",
           "hash": "17018817947603053025"
         },
         {
@@ -29509,6 +30425,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.trader.8cd6735693a2579ab00b.js",
+          "hash": "8367292688060657085"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.trader.a2782d0c2047c52856de.js",
           "hash": "8367292688060657085"
         },
         {
@@ -29604,11 +30524,19 @@
           "hash": "1682984941895255938"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.uz-json.6f48220d63402bebf5f2.js",
+          "hash": "1682984941895255938"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.uz-json.8cd6735693a2579ab00b.js",
           "hash": "1682984941895255938"
         },
         {
           "file": "packages/core/dist/js/core.chunk.uz-json.9d00e570552ebf62655f.js",
+          "hash": "1682984941895255938"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.uz-json.a2782d0c2047c52856de.js",
           "hash": "1682984941895255938"
         },
         {
@@ -29728,6 +30656,10 @@
           "hash": "2595155860894968360"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_index_js.a2782d0c2047c52856de.js",
+          "hash": "2595155860894968360"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_index_js.b0f2738bfeb52b2713cc.js",
           "hash": "2595155860894968360"
         },
@@ -29748,6 +30680,10 @@
           "hash": "15100612169134574401"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Illustration_DerivDark2faIcon_js-node_m-8ae7b4.a2782d0c2047c52856de.js",
+          "hash": "15100612169134574401"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Illustration_DerivDark2faIcon_js-node_m-8ae7b4.c24d3b674398f5244a8c.js",
           "hash": "15100612169134574401"
         },
@@ -29761,6 +30697,10 @@
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Illustration_index_js.4b1fec952a04d42fa91a.js",
+          "hash": "17997043489735776483"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Illustration_index_js.a2782d0c2047c52856de.js",
           "hash": "17997043489735776483"
         },
         {
@@ -29784,8 +30724,16 @@
           "hash": "7249591096660164029"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Illustrative_index_js.6f48220d63402bebf5f2.js",
+          "hash": "7249591096660164029"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Illustrative_index_js.8cd6735693a2579ab00b.js",
           "hash": "3244421341483603138"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Illustrative_index_js.a2782d0c2047c52856de.js",
+          "hash": "7249591096660164029"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Illustrative_index_js.b0f2738bfeb52b2713cc.js",
@@ -29808,11 +30756,19 @@
           "hash": "15980234204462484369"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedAndroidCaptionIc-ab4616.6f48220d63402bebf5f2.js",
+          "hash": "15980234204462484369"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedAndroidCaptionIc-ab4616.8cd6735693a2579ab00b.js",
           "hash": "3244421341483603138"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedAndroidCaptionIc-ab4616.9d00e570552ebf62655f.js",
+          "hash": "15980234204462484369"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedAndroidCaptionIc-ab4616.a2782d0c2047c52856de.js",
           "hash": "15980234204462484369"
         },
         {
@@ -29836,11 +30792,19 @@
           "hash": "7764253178870926131"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedAtLgBoldIcon_js--cd2598.6f48220d63402bebf5f2.js",
+          "hash": "7764253178870926131"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedAtLgBoldIcon_js--cd2598.8cd6735693a2579ab00b.js",
           "hash": "3244421341483603138"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedAtLgBoldIcon_js--cd2598.9d00e570552ebf62655f.js",
+          "hash": "7764253178870926131"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedAtLgBoldIcon_js--cd2598.a2782d0c2047c52856de.js",
           "hash": "7764253178870926131"
         },
         {
@@ -29864,12 +30828,20 @@
           "hash": "17668709141583803012"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedBookCircleQuesti-95f631.6f48220d63402bebf5f2.js",
+          "hash": "17668709141583803012"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedBookCircleQuesti-95f631.8cd6735693a2579ab00b.js",
           "hash": "3244421341483603138"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedBookCircleQuesti-95f631.9d00e570552ebf62655f.js",
           "hash": "3244421341483603138"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedBookCircleQuesti-95f631.a2782d0c2047c52856de.js",
+          "hash": "17668709141583803012"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedBookCircleQuesti-95f631.b0f2738bfeb52b2713cc.js",
@@ -29888,11 +30860,19 @@
           "hash": "5004352282230768373"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCashRegisterCapt-2d5b1e.6f48220d63402bebf5f2.js",
+          "hash": "5004352282230768373"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCashRegisterCapt-2d5b1e.8cd6735693a2579ab00b.js",
           "hash": "3244421341483603138"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCashRegisterCapt-2d5b1e.9d00e570552ebf62655f.js",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCashRegisterCapt-2d5b1e.a2782d0c2047c52856de.js",
           "hash": "3244421341483603138"
         },
         {
@@ -29912,8 +30892,16 @@
           "hash": "1575698206071841449"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCircleArrowDownC-3e82c6.6f48220d63402bebf5f2.js",
+          "hash": "1575698206071841449"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCircleArrowDownC-3e82c6.9d00e570552ebf62655f.js",
           "hash": "1575698206071841449"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCircleArrowDownC-3e82c6.a2782d0c2047c52856de.js",
+          "hash": "3244421341483603138"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCircleArrowDownC-3e82c6.b0f2738bfeb52b2713cc.js",
@@ -29932,7 +30920,15 @@
           "hash": "14538144857749513793"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCloneLgBoldIcon_-f99bec.6f48220d63402bebf5f2.js",
+          "hash": "14538144857749513793"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCloneLgBoldIcon_-f99bec.9d00e570552ebf62655f.js",
+          "hash": "14538144857749513793"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCloneLgBoldIcon_-f99bec.a2782d0c2047c52856de.js",
           "hash": "14538144857749513793"
         },
         {
@@ -29952,7 +30948,15 @@
           "hash": "234606054998751053"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCopyLgBoldIcon_j-7d6eea.6f48220d63402bebf5f2.js",
+          "hash": "234606054998751053"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCopyLgBoldIcon_j-7d6eea.9d00e570552ebf62655f.js",
+          "hash": "234606054998751053"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedCopyLgBoldIcon_j-7d6eea.a2782d0c2047c52856de.js",
           "hash": "234606054998751053"
         },
         {
@@ -29972,7 +30976,15 @@
           "hash": "5710179825761796958"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedDerivCaptionIcon-1c85ca.6f48220d63402bebf5f2.js",
+          "hash": "5710179825761796958"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedDerivCaptionIcon-1c85ca.9d00e570552ebf62655f.js",
+          "hash": "5710179825761796958"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedDerivCaptionIcon-1c85ca.a2782d0c2047c52856de.js",
           "hash": "5710179825761796958"
         },
         {
@@ -29992,7 +31004,15 @@
           "hash": "13333884255979404428"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedFaceViewfinderCa-880149.6f48220d63402bebf5f2.js",
+          "hash": "13333884255979404428"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedFaceViewfinderCa-880149.9d00e570552ebf62655f.js",
+          "hash": "13333884255979404428"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedFaceViewfinderCa-880149.a2782d0c2047c52856de.js",
           "hash": "13333884255979404428"
         },
         {
@@ -30016,11 +31036,19 @@
           "hash": "3863821516463895103"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedLoaderCaptionBol-88d248.6f48220d63402bebf5f2.js",
+          "hash": "3863821516463895103"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedLoaderCaptionBol-88d248.8cd6735693a2579ab00b.js",
           "hash": "3863821516463895103"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedLoaderCaptionBol-88d248.9d00e570552ebf62655f.js",
+          "hash": "3863821516463895103"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedLoaderCaptionBol-88d248.a2782d0c2047c52856de.js",
           "hash": "3863821516463895103"
         },
         {
@@ -30044,11 +31072,19 @@
           "hash": "6307192782405786929"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedMagnifyingGlassM-132a67.6f48220d63402bebf5f2.js",
+          "hash": "6307192782405786929"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedMagnifyingGlassM-132a67.8cd6735693a2579ab00b.js",
           "hash": "6307192782405786929"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedMagnifyingGlassM-132a67.9d00e570552ebf62655f.js",
+          "hash": "6307192782405786929"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedMagnifyingGlassM-132a67.a2782d0c2047c52856de.js",
           "hash": "6307192782405786929"
         },
         {
@@ -30072,11 +31108,19 @@
           "hash": "7221161421184516080"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedPresentationScre-ff9182.6f48220d63402bebf5f2.js",
+          "hash": "7221161421184516080"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedPresentationScre-ff9182.8cd6735693a2579ab00b.js",
           "hash": "7221161421184516080"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedPresentationScre-ff9182.9d00e570552ebf62655f.js",
+          "hash": "7221161421184516080"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedPresentationScre-ff9182.a2782d0c2047c52856de.js",
           "hash": "7221161421184516080"
         },
         {
@@ -30100,11 +31144,19 @@
           "hash": "13316006925478326344"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedUnlockCaptionBol-3cc530.6f48220d63402bebf5f2.js",
+          "hash": "13316006925478326344"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedUnlockCaptionBol-3cc530.8cd6735693a2579ab00b.js",
           "hash": "13316006925478326344"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedUnlockCaptionBol-3cc530.9d00e570552ebf62655f.js",
+          "hash": "13316006925478326344"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_LabelPairedUnlockCaptionBol-3cc530.a2782d0c2047c52856de.js",
           "hash": "13316006925478326344"
         },
         {
@@ -30128,11 +31180,19 @@
           "hash": "478395577873021249"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_index_js.6f48220d63402bebf5f2.js",
+          "hash": "478395577873021249"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_index_js.8cd6735693a2579ab00b.js",
           "hash": "478395577873021249"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_index_js.9d00e570552ebf62655f.js",
+          "hash": "478395577873021249"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_LabelPaired_index_js.a2782d0c2047c52856de.js",
           "hash": "478395577873021249"
         },
         {
@@ -30156,11 +31216,19 @@
           "hash": "9589407710652294456"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Legacy_index_js.6f48220d63402bebf5f2.js",
+          "hash": "9589407710652294456"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Legacy_index_js.8cd6735693a2579ab00b.js",
           "hash": "9589407710652294456"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Legacy_index_js.9d00e570552ebf62655f.js",
+          "hash": "9589407710652294456"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Legacy_index_js.a2782d0c2047c52856de.js",
           "hash": "9589407710652294456"
         },
         {
@@ -30184,11 +31252,19 @@
           "hash": "7732276328115755930"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_BrandBlackDeriv25Icon_js-node_modu-c20c11.6f48220d63402bebf5f2.js",
+          "hash": "7732276328115755930"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_BrandBlackDeriv25Icon_js-node_modu-c20c11.8cd6735693a2579ab00b.js",
           "hash": "7732276328115755930"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_BrandBlackDeriv25Icon_js-node_modu-c20c11.9d00e570552ebf62655f.js",
+          "hash": "7732276328115755930"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_BrandBlackDeriv25Icon_js-node_modu-c20c11.a2782d0c2047c52856de.js",
           "hash": "7732276328115755930"
         },
         {
@@ -30212,11 +31288,19 @@
           "hash": "4196292754373957241"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_BrandWhiteDeriv25Icon_js-node_modu-fea8a8.6f48220d63402bebf5f2.js",
+          "hash": "4196292754373957241"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_BrandWhiteDeriv25Icon_js-node_modu-fea8a8.8cd6735693a2579ab00b.js",
           "hash": "4196292754373957241"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_BrandWhiteDeriv25Icon_js-node_modu-fea8a8.9d00e570552ebf62655f.js",
+          "hash": "4196292754373957241"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_BrandWhiteDeriv25Icon_js-node_modu-fea8a8.a2782d0c2047c52856de.js",
           "hash": "4196292754373957241"
         },
         {
@@ -30240,11 +31324,19 @@
           "hash": "5711066159325499379"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_DerivProductBlackDerivBotLogoIcon_-50d021.6f48220d63402bebf5f2.js",
+          "hash": "5711066159325499379"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_DerivProductBlackDerivBotLogoIcon_-50d021.8cd6735693a2579ab00b.js",
           "hash": "5711066159325499379"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_DerivProductBlackDerivBotLogoIcon_-50d021.9d00e570552ebf62655f.js",
+          "hash": "5711066159325499379"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_DerivProductBlackDerivBotLogoIcon_-50d021.a2782d0c2047c52856de.js",
           "hash": "5711066159325499379"
         },
         {
@@ -30268,11 +31360,19 @@
           "hash": "3695547024711309612"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_PaymentMethod10CoinsBrandIcon_js-n-01002b.6f48220d63402bebf5f2.js",
+          "hash": "3695547024711309612"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_PaymentMethod10CoinsBrandIcon_js-n-01002b.8cd6735693a2579ab00b.js",
           "hash": "3695547024711309612"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_PaymentMethod10CoinsBrandIcon_js-n-01002b.9d00e570552ebf62655f.js",
+          "hash": "3695547024711309612"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_PaymentMethod10CoinsBrandIcon_js-n-01002b.a2782d0c2047c52856de.js",
           "hash": "3695547024711309612"
         },
         {
@@ -30296,11 +31396,19 @@
           "hash": "9688444287284825534"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_index_js.6f48220d63402bebf5f2.js",
+          "hash": "9688444287284825534"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_index_js.8cd6735693a2579ab00b.js",
           "hash": "9688444287284825534"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_index_js.9d00e570552ebf62655f.js",
+          "hash": "9688444287284825534"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Logo_index_js.a2782d0c2047c52856de.js",
           "hash": "9688444287284825534"
         },
         {
@@ -30324,11 +31432,19 @@
           "hash": "2999665576838268057"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Markets_index_js.6f48220d63402bebf5f2.js",
+          "hash": "2999665576838268057"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Markets_index_js.8cd6735693a2579ab00b.js",
           "hash": "2999665576838268057"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Markets_index_js.9d00e570552ebf62655f.js",
+          "hash": "2999665576838268057"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Markets_index_js.a2782d0c2047c52856de.js",
           "hash": "2999665576838268057"
         },
         {
@@ -30352,11 +31468,19 @@
           "hash": "15951699158841155668"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_PaymentMethods_index_js-node_modules_de-b59650.6f48220d63402bebf5f2.js",
+          "hash": "15951699158841155668"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_PaymentMethods_index_js-node_modules_de-b59650.8cd6735693a2579ab00b.js",
           "hash": "15951699158841155668"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_PaymentMethods_index_js-node_modules_de-b59650.9d00e570552ebf62655f.js",
+          "hash": "15951699158841155668"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_PaymentMethods_index_js-node_modules_de-b59650.a2782d0c2047c52856de.js",
           "hash": "15951699158841155668"
         },
         {
@@ -30380,12 +31504,20 @@
           "hash": "2792645386618617747"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Standalone_StandaloneAndroidIcon_js-nod-abd205.6f48220d63402bebf5f2.js",
+          "hash": "2792645386618617747"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Standalone_StandaloneAndroidIcon_js-nod-abd205.8cd6735693a2579ab00b.js",
           "hash": "2792645386618617747"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Standalone_StandaloneAndroidIcon_js-nod-abd205.9d00e570552ebf62655f.js",
           "hash": "2792645386618617747"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Standalone_StandaloneAndroidIcon_js-nod-abd205.a2782d0c2047c52856de.js",
+          "hash": "3244421341483603138"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Standalone_StandaloneAndroidIcon_js-nod-abd205.b0f2738bfeb52b2713cc.js",
@@ -30404,11 +31536,19 @@
           "hash": "7673823091442555816"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Standalone_index_js-node_modules_deriv_-b10551.6f48220d63402bebf5f2.js",
+          "hash": "7673823091442555816"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Standalone_index_js-node_modules_deriv_-b10551.8cd6735693a2579ab00b.js",
           "hash": "7673823091442555816"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Standalone_index_js-node_modules_deriv_-b10551.9d00e570552ebf62655f.js",
+          "hash": "7673823091442555816"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vendors-node_modules_deriv_quill-icons_dist_cjs_react_Standalone_index_js-node_modules_deriv_-b10551.a2782d0c2047c52856de.js",
           "hash": "7673823091442555816"
         },
         {
@@ -30500,11 +31640,19 @@
           "hash": "12680844811142791404"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.vi-json.6f48220d63402bebf5f2.js",
+          "hash": "12680844811142791404"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.vi-json.8cd6735693a2579ab00b.js",
           "hash": "12680844811142791404"
         },
         {
           "file": "packages/core/dist/js/core.chunk.vi-json.9d00e570552ebf62655f.js",
+          "hash": "12680844811142791404"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.vi-json.a2782d0c2047c52856de.js",
           "hash": "12680844811142791404"
         },
         {
@@ -30572,11 +31720,19 @@
           "hash": "14482631981542374135"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.zh_cn-json.6f48220d63402bebf5f2.js",
+          "hash": "14482631981542374135"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.zh_cn-json.8cd6735693a2579ab00b.js",
           "hash": "14482631981542374135"
         },
         {
           "file": "packages/core/dist/js/core.chunk.zh_cn-json.9d00e570552ebf62655f.js",
+          "hash": "14482631981542374135"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.zh_cn-json.a2782d0c2047c52856de.js",
           "hash": "14482631981542374135"
         },
         {
@@ -30600,11 +31756,19 @@
           "hash": "14221714295113315695"
         },
         {
+          "file": "packages/core/dist/js/core.chunk.zh_tw-json.6f48220d63402bebf5f2.js",
+          "hash": "14221714295113315695"
+        },
+        {
           "file": "packages/core/dist/js/core.chunk.zh_tw-json.8cd6735693a2579ab00b.js",
           "hash": "14221714295113315695"
         },
         {
           "file": "packages/core/dist/js/core.chunk.zh_tw-json.9d00e570552ebf62655f.js",
+          "hash": "14221714295113315695"
+        },
+        {
+          "file": "packages/core/dist/js/core.chunk.zh_tw-json.a2782d0c2047c52856de.js",
           "hash": "14221714295113315695"
         },
         {
@@ -30630,6 +31794,10 @@
         {
           "file": "packages/core/dist/js/core.main~A.8cd6735693a2579ab00b.js",
           "hash": "13178634338387443019"
+        },
+        {
+          "file": "packages/core/dist/js/core.main~A.a2782d0c2047c52856de.js",
+          "hash": "4357136428279012919"
         },
         {
           "file": "packages/core/dist/js/core.main~A.b0f2738bfeb52b2713cc.js",
@@ -30676,12 +31844,20 @@
           "hash": "14468346415209685030"
         },
         {
+          "file": "packages/core/dist/js/core.main~i.6f48220d63402bebf5f2.js",
+          "hash": "8662728328445967697"
+        },
+        {
           "file": "packages/core/dist/js/core.main~i.8cd6735693a2579ab00b.js",
           "hash": "7414260982347300892"
         },
         {
           "file": "packages/core/dist/js/core.main~i.9d00e570552ebf62655f.js",
           "hash": "12673055457875767899"
+        },
+        {
+          "file": "packages/core/dist/js/core.main~i.a2782d0c2047c52856de.js",
+          "hash": "5455934730055422475"
         },
         {
           "file": "packages/core/dist/js/core.main~i.b0f2738bfeb52b2713cc.js",
@@ -30701,6 +31877,10 @@
         },
         {
           "file": "packages/core/dist/js/core.vendors-hooks_node_modules_js-cookie_src_js_cookie_js-hooks_node_modules_deriv-com_auth-clien-e56339.4b1fec952a04d42fa91a.js",
+          "hash": "5636072591280979435"
+        },
+        {
+          "file": "packages/core/dist/js/core.vendors-hooks_node_modules_js-cookie_src_js_cookie_js-hooks_node_modules_deriv-com_auth-clien-e56339.6f48220d63402bebf5f2.js",
           "hash": "5636072591280979435"
         },
         {
@@ -30732,7 +31912,15 @@
           "hash": "6570427747860425304"
         },
         {
+          "file": "packages/core/dist/js/core.vendors-node_modules_cloudflare_stream-react_dist_stream-react_esm_js-node_modules_datadog_br-06efea.6f48220d63402bebf5f2.js",
+          "hash": "6570427747860425304"
+        },
+        {
           "file": "packages/core/dist/js/core.vendors-node_modules_cloudflare_stream-react_dist_stream-react_esm_js-node_modules_datadog_br-06efea.9d00e570552ebf62655f.js",
+          "hash": "6570427747860425304"
+        },
+        {
+          "file": "packages/core/dist/js/core.vendors-node_modules_cloudflare_stream-react_dist_stream-react_esm_js-node_modules_datadog_br-06efea.a2782d0c2047c52856de.js",
           "hash": "6570427747860425304"
         },
         {
@@ -30756,7 +31944,15 @@
           "hash": "14870260725957547961"
         },
         {
+          "file": "packages/core/dist/js/core.vendors-node_modules_file-selector_dist_es5_index_js-node_modules_formik_dist_formik_esm_js-n-ed3846.6f48220d63402bebf5f2.js",
+          "hash": "14870260725957547961"
+        },
+        {
           "file": "packages/core/dist/js/core.vendors-node_modules_file-selector_dist_es5_index_js-node_modules_formik_dist_formik_esm_js-n-ed3846.9d00e570552ebf62655f.js",
+          "hash": "14870260725957547961"
+        },
+        {
+          "file": "packages/core/dist/js/core.vendors-node_modules_file-selector_dist_es5_index_js-node_modules_formik_dist_formik_esm_js-n-ed3846.a2782d0c2047c52856de.js",
           "hash": "14870260725957547961"
         },
         {
@@ -30780,7 +31976,15 @@
           "hash": "3109292795931563803"
         },
         {
+          "file": "packages/core/dist/js/core.vendors-node_modules_growthbook_growthbook_dist_cjs_index_js-node_modules_has-property-descri-53137e.6f48220d63402bebf5f2.js",
+          "hash": "3109292795931563803"
+        },
+        {
           "file": "packages/core/dist/js/core.vendors-node_modules_growthbook_growthbook_dist_cjs_index_js-node_modules_has-property-descri-53137e.9d00e570552ebf62655f.js",
+          "hash": "3109292795931563803"
+        },
+        {
+          "file": "packages/core/dist/js/core.vendors-node_modules_growthbook_growthbook_dist_cjs_index_js-node_modules_has-property-descri-53137e.a2782d0c2047c52856de.js",
           "hash": "3109292795931563803"
         },
         {
@@ -30800,7 +32004,15 @@
           "hash": "8187153828196473745"
         },
         {
+          "file": "packages/core/dist/js/core.vendors-node_modules_moment_moment_js-node_modules_nanoclone_src_index_js-node_modules_object-60960b.6f48220d63402bebf5f2.js",
+          "hash": "8187153828196473745"
+        },
+        {
           "file": "packages/core/dist/js/core.vendors-node_modules_moment_moment_js-node_modules_nanoclone_src_index_js-node_modules_object-60960b.9d00e570552ebf62655f.js",
+          "hash": "8187153828196473745"
+        },
+        {
+          "file": "packages/core/dist/js/core.vendors-node_modules_moment_moment_js-node_modules_nanoclone_src_index_js-node_modules_object-60960b.a2782d0c2047c52856de.js",
           "hash": "8187153828196473745"
         },
         {
@@ -30820,7 +32032,15 @@
           "hash": "17644082882783896576"
         },
         {
+          "file": "packages/core/dist/js/core.vendors-node_modules_ua-parser-js_src_ua-parser_js-node_modules_use-sync-external-store_shim_-fb838f.6f48220d63402bebf5f2.js",
+          "hash": "17644082882783896576"
+        },
+        {
           "file": "packages/core/dist/js/core.vendors-node_modules_ua-parser-js_src_ua-parser_js-node_modules_use-sync-external-store_shim_-fb838f.9d00e570552ebf62655f.js",
+          "hash": "17644082882783896576"
+        },
+        {
+          "file": "packages/core/dist/js/core.vendors-node_modules_ua-parser-js_src_ua-parser_js-node_modules_use-sync-external-store_shim_-fb838f.a2782d0c2047c52856de.js",
           "hash": "17644082882783896576"
         },
         {
@@ -31093,7 +32313,7 @@
         },
         {
           "file": "packages/core/dist/localstorage-sync.html",
-          "hash": "3244421341483603138"
+          "hash": "5815254555180658910"
         },
         {
           "file": "packages/core/dist/manifest.json",
@@ -32073,7 +33293,7 @@
         },
         {
           "file": "packages/core/dist/service-worker.js.map",
-          "hash": "8424216593663898931"
+          "hash": "6009948748156077363"
         },
         {
           "file": "packages/core/dist/sitemap.xml",
@@ -32457,7 +33677,7 @@
         },
         {
           "file": "packages/core/src/App/AppContent.tsx",
-          "hash": "18131457073974192027"
+          "hash": "12729238041237857799"
         },
         {
           "file": "packages/core/src/App/Components/Elements/CookieBanner/cookie-banner.jsx",
@@ -35324,7 +36544,7 @@
         },
         {
           "file": "packages/shared/src/utils/config/config.ts",
-          "hash": "11609288132532544399"
+          "hash": "2005034393844568786"
         },
         {
           "file": "packages/shared/src/utils/config/index.ts",
@@ -45582,7 +46802,7 @@
         },
         {
           "file": "packages/utils/src/getActiveAccounts.ts",
-          "hash": "14800219893558910427"
+          "hash": "4939020786175193267"
         },
         {
           "file": "packages/utils/src/getActiveAuthTokenIDFromLocalStorage.ts",

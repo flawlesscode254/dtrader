@@ -26,10 +26,11 @@ import LandscapeBlocker from './Components/Elements/LandscapeBlocker';
 import AppToastMessages from './Containers/app-toast-messages.jsx';
 import AppContents from './Containers/Layout/app-contents.jsx';
 import Footer from './Containers/Layout/footer.jsx';
-import Header from './Containers/Layout/header';
 import AppModals from './Containers/Modals';
 import Routes from './Containers/Routes/routes.jsx';
 import Devtools from './Devtools';
+import { LoginButton } from './Components/Layout/Header/login-button';
+import { SignupButton } from './Components/Layout/Header/signup-button';
 
 const AppContent: React.FC<{ passthrough: unknown }> = observer(({ passthrough }) => {
     const store = useStore();
@@ -172,7 +173,22 @@ const AppContent: React.FC<{ passthrough: unknown }> = observer(({ passthrough }
     return (
         <ThemeProvider theme={is_dark_mode_on ? 'dark' : 'light'}>
             <LandscapeBlocker />
-            {!isCallBackPage && <Header />}
+            <div></div>
+            {!isCallBackPage && (
+                <div
+                    style={{
+                        display: 'flex',
+                        flexDirection: 'row',
+                        justifyContent: 'flex-end',
+                        alignItems: 'center',
+                        gap: 10,
+                        margin: 3
+                    }}
+                >
+                    <LoginButton />
+                    <SignupButton />
+                </div>
+            )}
             <ErrorBoundary root_store={store}>
                 <AppContents>
                     <Routes passthrough={passthrough} />
