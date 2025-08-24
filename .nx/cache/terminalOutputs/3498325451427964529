@@ -1,0 +1,34 @@
+
+> @deriv/trader@3.8.0 build
+> f () { NODE_OPTIONS='-r ts-node/register' webpack --config "./build/webpack.config.js" --env base=$1;}; f
+
+Browserslist: browsers data (caniuse-lite) is 7 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+assets by path [1m[32mtrader/js/*.js[39m[22m 17.6 MiB
+  assets by chunk 11.4 MiB (id hint: vendors)
+    asset [1m[32mtrader/js/trader.vendors-node_modules_datadog_browser-rum_esm_entries_main_js-node_modules_bowser_es5_js-node_-2936ed.641ff6a956721efe12e7.js[39m[22m 5.72 MiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+    asset [1m[32mtrader/js/trader.vendors-node_modules_cloudflare_stream-react_dist_stream-react_esm_js-node_modules_deriv_quil-0ca386.800aa3b64d114201ed16.js[39m[22m 5.41 MiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+    asset [1m[32mtrader/js/trader.vendors-node_modules_react-content-loader_dist_react-content-loader_es_js-node_modules_react--d46026.ebb8e48c49fb6c5d9c4f.js[39m[22m 195 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+    asset [1m[32mtrader/js/trader.vendors-node_modules_deriv_quill-icons_dist_esm_react_LabelPaired_LabelPairedChevronsDownCapt-dee9aa.382d17e67da104c25bd3.js[39m[22m 33.8 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+  + 24 assets
+assets by path [1m[32mtrader/css/*.css[39m[22m 1.62 MiB
+  assets by chunk 1.17 MiB (id hint: vendors)
+    asset [1m[32mtrader/css/trader.vendors-node_modules_cloudflare_stream-react_dist_stream-react_esm_js-node_modules_deriv_quil-0ca386.86a512f45fe6caaf98c3.css[39m[22m 1.15 MiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+    asset [1m[32mtrader/css/trader.vendors-node_modules_react-content-loader_dist_react-content-loader_es_js-node_modules_react--d46026.81cf2f6f5d425f59e023.css[39m[22m 23.6 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+  + 6 assets
+asset [1m[32mtrader/asset-manifest.json[39m[22m 5.35 KiB [1m[32m[emitted][39m[22m
+orphan modules 20.9 MiB (javascript) 971 KiB (css/mini-extract) [1m[33m[orphan][39m[22m 8047 modules
+runtime modules 13.7 KiB 16 modules
+built modules 6.05 MiB (javascript) 1.62 MiB (css/mini-extract) [1m[33m[built][39m[22m
+  javascript modules 6.05 MiB
+    modules by path [1m../[39m[22m 4.15 MiB 827 modules
+    modules by path [1m./src/[39m[22m 1.91 MiB 571 modules
+    modules by path [1mexternal "@deriv/[39m[22m 168 bytes 4 modules
+    + 7 modules
+  css modules 1.62 MiB
+    modules by path [1m./src/[39m[22m 458 KiB 68 modules
+    modules by path [1m../[39m[22m 1.17 MiB 43 modules
+  [1m../api/src/remote_config.json[39m[22m 228 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+[1m[33m2 WARNINGS in child compilations (Use 'stats.children: true' resp. '--stats-children' for more details)[39m[22m
+webpack 5.97.1 compiled with [1m[33m2 warnings[39m[22m in 107059 ms

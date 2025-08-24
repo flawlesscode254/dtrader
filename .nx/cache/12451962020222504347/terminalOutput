@@ -1,0 +1,30 @@
+
+> @deriv/reports@1.0.0 build
+> f () { NODE_OPTIONS='-r ts-node/register'  webpack --config "./build/webpack.config.js" --env base=$1;}; f
+
+Browserslist: browsers data (caniuse-lite) is 7 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+assets by path [1m[32mreports/js/*.js[39m[22m 1.63 MiB
+  assets by chunk 872 KiB (id hint: vendors)
+    asset [1m[32mreports/js/reports.vendors-node_modules_moment_moment_js.9a7db509770a541c7837.js[39m[22m 454 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+    asset [1m[32mreports/js/reports.vendors-node_modules_lodash_debounce_index_js-node_modules_mobx-persist-store_lib_esm5_index_-41aa7c.7c128e3ae7b08a9e10b7.js[39m[22m 277 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+    asset [1m[32mreports/js/reports.vendors-hooks_node_modules_js-cookie_src_js_cookie_js-node_modules_deriv-com_utils_dist_deriv-29d976.fb5d453791a411008c8f.js[39m[22m 95.4 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+    asset [1m[32mreports/js/reports.vendors-node_modules_react-content-loader_dist_react-content-loader_es_js-node_modules_classn-e603fb.041fb19dd6c7131e5610.js[39m[22m 45.8 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+  + 6 assets
+assets by path [1m[32mreports/css/*.css[39m[22m 48.7 KiB
+  asset [1m[32mreports/css/reports.reports-routes.85f61a8de19f51e98148.css[39m[22m 39 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (name: reports-routes)
+  asset [1m[32mreports/css/reports.reports-app.74e54f79b1c5aa79b0cf.css[39m[22m 9.66 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (name: reports-app)
+asset [1m[32mreports/asset-manifest.json[39m[22m 1.55 KiB [1m[32m[emitted][39m[22m
+orphan modules 4.35 MiB (javascript) 970 KiB (css/mini-extract) [1m[33m[orphan][39m[22m 848 modules
+runtime modules 10.4 KiB 15 modules
+built modules 586 KiB (javascript) 48.7 KiB (css/mini-extract) [1m[33m[built][39m[22m
+  cacheable modules 586 KiB (javascript) 48.7 KiB (css/mini-extract)
+    modules by path [1m./src/[39m[22m 240 KiB (javascript) 48.7 KiB (css/mini-extract) 67 modules
+    modules by path [1m../[39m[22m 346 KiB 47 modules
+  modules by path [1mexternal "@deriv/[39m[22m 126 bytes
+    [1mexternal "@deriv/shared"[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1mexternal "@deriv/components"[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1mexternal "@deriv/translations"[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  + 6 modules
+webpack 5.97.1 compiled [1m[32msuccessfully[39m[22m in 45784 ms

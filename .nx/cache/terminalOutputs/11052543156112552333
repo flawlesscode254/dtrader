@@ -1,0 +1,37 @@
+
+> @deriv/cfd@1.0.0 build
+> f () { NODE_OPTIONS='-r ts-node/register' webpack --config "./build/webpack.config.js" --env base=$1; }; f
+
+Browserslist: browsers data (caniuse-lite) is 7 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+assets by path [1m[32mcfd/js/*.js[39m[22m 2.17 MiB
+  assets by info 317 KiB [1m[32m[immutable][39m[22m
+    asset [1m[32mcfd/js/cfd.cfd-compare-accounts.3a997c6a85be0d2790af.js[39m[22m 90.2 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (name: cfd-compare-accounts)
+    asset [1m[32mcfd/js/cfd.src_Containers_cfd-password-change_tsx.8a235de663445b781f95.js[39m[22m 65.9 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m
+    asset [1m[32mcfd/js/cfd.src_Containers_mt5-create-password_mt5-create-password_tsx.e4def064e59236ba8eba.js[39m[22m 44.7 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m
+    asset [1m[32mcfd/js/cfd.cfd-app.4fb6bb685001a55d4ed0.js[39m[22m 42 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (name: cfd-app)
+    + 5 assets
+  + 14 assets
+assets by path [1m[32mcfd/css/*.css[39m[22m 59.7 KiB
+  asset [1m[32mcfd/css/cfd.main.5ea8cdc6712ed23a571a.css[39m[22m 23.1 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (name: CFDPasswordModal)
+  asset [1m[32mcfd/css/cfd.main.26cdc7fcfe3576d0652a.css[39m[22m 13.8 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (name: MT5TradeModal)
+  asset [1m[32mcfd/css/cfd.cfd-compare-accounts.f1d88b855f11cbff46c5.css[39m[22m 10.4 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (name: cfd-compare-accounts)
+  asset [1m[32mcfd/css/cfd.main.257da07562529d37f4ec.css[39m[22m 6.51 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (name: MT5MigrationModal)
+  asset [1m[32mcfd/css/cfd.src_Containers_mt5-create-password_mt5-create-password_tsx.2a61489192a867af0f3c.css[39m[22m 5.81 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m
+asset [1m[32mcfd/asset-manifest.json[39m[22m 2.48 KiB [1m[32m[emitted][39m[22m
+orphan modules 19.2 MiB (javascript) 962 KiB (css/mini-extract) [1m[33m[orphan][39m[22m 7640 modules
+runtime modules 39.1 KiB 63 modules
+built modules 613 KiB (javascript) 53.2 KiB (css/mini-extract) [1m[33m[built][39m[22m
+  modules by path [1m./src/[39m[22m 526 KiB (javascript) 53.2 KiB (css/mini-extract)
+    javascript modules 526 KiB 107 modules
+    css modules 53.2 KiB 7 modules
+  modules by path [1m../../node_modules/[39m[22m 86.7 KiB 37 modules
+  modules by path [1mexternal "@deriv/[39m[22m 336 bytes
+    modules by path [1mexternal "@deriv/account/[39m[22m 84 bytes 2 modules
+    + 6 modules
+  modules by path [1mexternal "@deriv-com/[39m[22m 84 bytes
+    [1mexternal "@deriv-com/analytics"[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1mexternal "@deriv-com/utils"[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  + 6 modules
+webpack 5.97.1 compiled [1m[32msuccessfully[39m[22m in 54238 ms

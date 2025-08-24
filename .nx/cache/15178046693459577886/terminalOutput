@@ -1,0 +1,38 @@
+
+> @deriv/account@1.0.0 build
+> f () { NODE_OPTIONS='-r ts-node/register' webpack --config "./build/webpack.config.js" --env base=$1;}; f
+
+Browserslist: browsers data (caniuse-lite) is 7 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+assets by path [1m[32maccount/js/*.js[39m[22m 8.47 MiB
+  assets by info 7.43 MiB [1m[32m[immutable][39m[22m
+    asset [1m[32maccount/js/account.vendors-node_modules_binary-com_binary-document-uploader_DocumentUploader_js-node_modules_day-870ffe.f004c272bc5105e09f9c.js[39m[22m 3.85 MiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+    asset [1m[32maccount/js/account.account-app.d2ca98f5650b57876c6f.js[39m[22m 1.85 MiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (name: account-app)
+    + 15 assets
+  + 14 assets
+assets by path [1m[32maccount/css/*.css[39m[22m 1.28 MiB
+  asset [1m[32maccount/css/vendors-node_modules_binary-com_binary-document-uploader_DocumentUploader_js-node_modules_day-870ffe.b761b07c4e59e27ba84d.css[39m[22m 1.1 MiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (id hint: vendors)
+  asset [1m[32maccount/css/account-app.32f94c6ec4e12a1d44a9.css[39m[22m 106 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m (name: account-app)
+  asset [1m[32maccount/css/Sections_Profile_PhoneVerification_index_ts.4b598802478396f22af8.css[39m[22m 18.8 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m
+  asset [1m[32maccount/css/Sections_Security_SelfExclusion_index_ts.b4b18e3700c0ba167d23.css[39m[22m 13.9 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m
+  asset [1m[32maccount/css/Sections_Security_ApiToken_index_ts.468b34e1830e06c6074a.css[39m[22m 13.7 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m
+  asset [1m[32maccount/css/Sections_Security_ConnectedApps_index_ts.c9e4e49d412d4f1a6b92.css[39m[22m 9.75 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m
+  asset [1m[32maccount/css/Sections_Security_AccountLimits_index_ts.2b4750265784f6064e89.css[39m[22m 9.04 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m
+  + 2 assets
+orphan modules 977 KiB (javascript) 1.01 MiB (css/mini-extract) [1m[33m[orphan][39m[22m 315 modules
+runtime modules 22.8 KiB 65 modules
+javascript modules 2.29 MiB
+  modules by path [1m./[39m[22m 864 KiB 376 modules
+  modules by path [1m../[39m[22m 1.45 MiB 307 modules
+  modules by path [1mexternal "@deriv/[39m[22m 378 bytes 9 modules
+  modules by path [1mexternal "@deriv-com/[39m[22m 126 bytes 3 modules
+  + 5 modules
+css modules 1.26 MiB
+  modules by path [1m../[39m[22m 1.11 MiB
+    modules by path [1m../../../node_modules/@deriv-com/quill-ui/dist/assets/*.css[39m[22m 187 KiB 25 modules
+    modules by path [1m../node_modules/@deriv-com/auth-client/dist/[39m[22m 3.68 KiB 2 modules
+    + 3 modules
+  modules by path [1m./[39m[22m 158 KiB 22 modules
+[1m../../../node_modules/i18n-iso-countries/codes.json[39m[22m 8.56 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.97.1 compiled [1m[32msuccessfully[39m[22m in 73954 ms
