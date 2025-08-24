@@ -14,7 +14,7 @@ type TMBApiReturnedValue = {
     active?: boolean;
 };
 
-const domains = ['defentraders.site'];
+const domains = ['dtrader.defentraders.site'];
 function endChat() {
     window.LC_API?.close_chat?.();
     window.LiveChatWidget?.call('hide');

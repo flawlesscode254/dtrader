@@ -15,11 +15,11 @@ export const livechat_client_id = '66aa088aad5a414484c1fd1fa8a5ace7';
 
 export const domain_app_ids = {
     // these domains as supported "production domains"
-    'defentraders.site': 74892, // TODO: [app-link-refactor] - Remove backwards compatibility for `deriv.app`
+    'dtrader.dtrader.defentraders.site': 97813, // TODO: [app-link-refactor] - Remove backwards compatibility for `deriv.app`
 };
 
 export const platform_app_ids = {
-    derivgo: 74892,
+    derivgo: 97813,
 };
 
 export const getCurrentProductionDomain = () =>
@@ -58,12 +58,12 @@ export const getAppId = () => {
         app_id = user_app_id;
     } else if (isStaging()) {
         window.localStorage.removeItem('config.default_app_id');
-        app_id = is_bot ? 74892 : domain_app_ids[current_domain as keyof typeof domain_app_ids] || 74892; // it's being used in endpoint chrome extension - please do not remove
+        app_id = is_bot ? 97813 : domain_app_ids[current_domain as keyof typeof domain_app_ids] || 97813; // it's being used in endpoint chrome extension - please do not remove
     } else if (/localhost/i.test(window.location.hostname)) {
-        app_id = 74892;
+        app_id = 97813;
     } else {
         window.localStorage.removeItem('config.default_app_id');
-        app_id = is_bot ? 74892 : domain_app_ids[current_domain as keyof typeof domain_app_ids] || 74892;
+        app_id = is_bot ? 97813 : domain_app_ids[current_domain as keyof typeof domain_app_ids] || 97813;
     }
 
     return app_id;
