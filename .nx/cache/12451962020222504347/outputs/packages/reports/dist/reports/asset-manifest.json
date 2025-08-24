@@ -1,0 +1,14 @@
+{
+  "reports.js": "/reports/js/reports.js",
+  "reports-app.css": "/reports/css/reports.reports-app.74e54f79b1c5aa79b0cf.css",
+  "reports-app.js": "/reports/js/reports.reports-app.559424ba1b0745f966a4.js",
+  "trade-modals.js": "/reports/js/reports.trade-modals.4b00ce3e99befb3d4905.js",
+  "404.js": "/reports/js/reports.404.313ea44b53cad0096075.js",
+  "reports-routes.css": "/reports/css/reports.reports-routes.85f61a8de19f51e98148.css",
+  "reports-routes.js": "/reports/js/reports.reports-routes.95904534512b5019201b.js",
+  "two-month-picker.js": "/reports/js/reports.two-month-picker.71d05a0cc45817bb1c6d.js",
+  "reports/js/reports.vendors-node_modules_lodash_debounce_index_js-node_modules_mobx-persist-store_lib_esm5_index_-41aa7c.js": "/reports/js/reports.vendors-node_modules_lodash_debounce_index_js-node_modules_mobx-persist-store_lib_esm5_index_-41aa7c.7c128e3ae7b08a9e10b7.js",
+  "reports/js/reports.vendors-node_modules_react-content-loader_dist_react-content-loader_es_js-node_modules_classn-e603fb.js": "/reports/js/reports.vendors-node_modules_react-content-loader_dist_react-content-loader_es_js-node_modules_classn-e603fb.041fb19dd6c7131e5610.js",
+  "reports/js/reports.vendors-hooks_node_modules_js-cookie_src_js_cookie_js-node_modules_deriv-com_utils_dist_deriv-29d976.js": "/reports/js/reports.vendors-hooks_node_modules_js-cookie_src_js_cookie_js-node_modules_deriv-com_utils_dist_deriv-29d976.fb5d453791a411008c8f.js",
+  "reports/js/reports.vendors-node_modules_moment_moment_js.js": "/reports/js/reports.vendors-node_modules_moment_moment_js.9a7db509770a541c7837.js"
+}
