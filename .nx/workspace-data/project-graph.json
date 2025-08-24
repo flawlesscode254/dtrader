@@ -2895,6 +2895,20 @@
         },
         "implicitDependencies": []
       }
+    },
+    ".vercel": {
+      "name": ".vercel",
+      "type": "lib",
+      "data": {
+        "root": ".vercel",
+        "name": ".vercel",
+        "projectId": "prj_gV50b70YjtWa49byhc6jDz9rZdHD",
+        "orgId": "team_5inWY27xa8kSYaGi9OHxifgU",
+        "projectName": "trader",
+        "implicitDependencies": [],
+        "targets": {},
+        "tags": []
+      }
     }
   },
   "externalNodes": {
@@ -33194,6 +33208,7 @@
         "type": "static"
       }
     ],
+    ".vercel": [],
     "npm:@ampproject/remapping": [
       {
         "source": "npm:@ampproject/remapping",

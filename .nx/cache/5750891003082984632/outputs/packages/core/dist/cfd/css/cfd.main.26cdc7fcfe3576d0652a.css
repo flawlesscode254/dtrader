@@ -1,0 +1,583 @@
+/*------------------------------------*
+ *  # Constants
+ *------------------------------------*/
+/*RTL Language Mixin*/
+/* stylelint-disable color-no-hex */
+/* COLOR PALETTE */
+/* colors */
+/* status colors */
+/* alpha colors */
+/* gradient colors */
+/* Preserve legacy variables */
+/* Primary */
+/* stylelint-enable color-no-hex */
+/* Wallet gradient background */
+/* App Cards gradient background */
+/* Wallets */
+/*------------------------------------*
+ *  # SASS Mixins and Functions
+ *------------------------------------*/
+/*
+ * SASS interpolation
+ */
+/*
+ * PX to EM
+ * @param $px - px value to be converted
+ * @param $base - base font size (in `em`)
+ * Note: 'em' values are calculate based on the element font-size
+ *       to properly converts 'px' to 'em', please pass in the element font-size with it
+ * Usage example:
+    padding: em(16px, 1.6em); // font-size in 'em'
+ */
+/*
+ * Set property by passing a property name, and values.
+ * @param $property name - padding, margin etc.
+ * @param $values        - values in `px` (space separated for multiple values)
+ * @param $font-size     - base font-size in `em`
+ * Usage example:
+   @include toEm(padding, 8px 16px 8px, 1.6em);
+ */
+/*
+ * Generate typefaces key-value pair of variable name and config
+ * Example:
+   --paragraph-center-bold-black: (14px, center, bold, black)
+ */
+/*
+ * Sets font-size, font-weight, color, text-transform, text-align and line-height
+ * Usage example:
+   @include setTypeface(16px, bold, black, uppercase);
+ */
+/*
+ * Set typefaces by passing a typeface variable name
+ * @param $var   - typeface variable
+ * @param $tt    - text-transform property
+ * @param $align - text-align property
+ * Usage example:
+   @include typeface(--paragraph-bold-black, uppercase, center);
+ */
+/*
+ * Range Slider Thumb styling is set here
+ */
+/*
+ * SVG icons colors
+ */
+/*
+ * Bar Spinner Animation
+ * @param $count    - number of bars
+ * @param $duration - duration of animation
+ * @param $phase    - each bar phase change delay
+ * Usage example:
+   @include createBarspinnerAnimation(5, 1.2s, 0,1);
+ */
+/*
+ * Tooltip colors
+ * @param $color - color property
+ * Usage example:
+   @include tooltipColor($COLOR_RED);
+ */
+/*
+ * Convert Tooltip colors
+ * @param $color - css color property
+ * Usage example:
+   @include convertTooltipColor(var(--status-default));
+ */
+/*
+    Constants
+*/
+/*
+    Variables
+*/
+/*
+    List of all typefaces variables in the format: --$FONT_SIZES-$TEXT_ALIGN-$FONT_WEIGHTS-COLORS.
+    See $FONT_SIZES, $TEXT_ALIGN, $FONT_WEIGHTS, $COLORS maps above for references.
+    Variables name example: --title-center-semibold-red
+ */
+/*
+    to use styles without modifier class on .inline-icon
+    use @extend
+
+    e.g. style icon on parent hover:
+        a:hover .inline-icon {
+            @extend %inline-icon-active;
+        }
+*/
+/**
+ * Define Breakpoints here.
+ */
+/** Need to add new breakpoints for mixins */
+.cfd-nakala-modal {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 20px;
+}
+.cfd-nakala-modal__logo-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2.4rem;
+}
+.cfd-nakala-modal__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cfd-nakala-modal__logo .linked {
+  width: 176px;
+  height: 64px;
+}
+.cfd-nakala-modal__title h3 {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.cfd-nakala-modal__description {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cfd-nakala-modal__description p {
+  margin-bottom: 0.8rem;
+  color: #101213;
+  text-align: center;
+}
+.cfd-nakala-modal__description p:last-child {
+  margin-bottom: 0;
+}
+.cfd-nakala-modal__getting-started {
+  width: 100%;
+  background-color: var(--general-section-1);
+  border-radius: 0.8rem;
+  padding: 2.4rem;
+  margin-bottom: 1.6rem;
+}
+.cfd-nakala-modal__getting-started h3 {
+  margin-bottom: 1.6rem;
+}
+.cfd-nakala-modal__steps {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  margin: 10px 5px;
+  position: relative;
+}
+.cfd-nakala-modal__steps--with-line:before {
+  content: "";
+  position: absolute;
+  left: 1.2rem;
+  top: 2.4rem;
+  width: 2px;
+  background-color: var(--border-normal);
+  z-index: 0;
+}
+@media (min-width: 768px) {
+  .cfd-nakala-modal__steps--with-line:before {
+    bottom: 2.4rem;
+  }
+}
+@media (max-width: 767px) {
+  .cfd-nakala-modal__steps--with-line:before {
+    height: 4rem;
+  }
+}
+.cfd-nakala-modal__step {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.2rem;
+  position: relative;
+}
+.cfd-nakala-modal__step-number {
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
+  background-color: var(--text-prominent);
+  color: var(--text-colored-background);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1;
+}
+.cfd-nakala-modal__step-content {
+  flex: 1;
+}
+.cfd-nakala-modal__step-content p {
+  margin: 0;
+  line-height: 1.5;
+  color: var(--text-general);
+}
+.cfd-nakala-modal__help-section {
+  text-align: center;
+}
+.cfd-nakala-modal__help-section a {
+  text-decoration: underline;
+  font-weight: bold;
+}
+.cfd-nakala-modal__qr-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.cfd-nakala-modal__qr-section-code {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.cfd-nakala-modal__qr-section-text {
+  font-size: 12px;
+  color: var(--text-less-prominent);
+  text-align: center;
+}
+.cfd-nakala-modal__footer {
+  display: flex;
+  justify-content: flex-end;
+  box-shadow: 0px -2px 0px 0px var(--border-divider);
+  padding: 15px 24px;
+}
+.cfd-nakala-modal__footer--mobile {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.cfd-nakala-modal__footer--mobile button {
+  width: 100%;
+}
+.cfd-nakala-modal__footer--info-mobile {
+  position: absolute;
+  bottom: 40px;
+  width: 100%;
+}
+.cfd-nakala-modal__footer--info-mobile button {
+  width: 100%;
+}
+.cfd-nakala-modal--paragraph {
+  color: var(--text-less-prominent);
+  line-height: 1.45;
+  font-size: 1.4rem;
+}
+.cfd-nakala-modal__login-specs {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  border-radius: 0.8rem;
+  overflow: hidden;
+}
+.cfd-nakala-modal__login-specs-item {
+  display: flex;
+  padding: 0.8rem 1.2rem;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--general-section-1);
+  margin: 0.1rem 0.5rem 0px 3rem;
+}
+
+.nakala-modal-maintenance {
+  display: flex;
+  gap: 0.8rem;
+  margin-top: 1rem;
+  margin-bottom: 1.6rem;
+  margin-left: 0.7rem;
+}
+.nakala-modal-maintenance span {
+  color: #999999;
+}
+/*------------------------------------*
+ *  # Constants
+ *------------------------------------*/
+/*RTL Language Mixin*/
+/* stylelint-disable color-no-hex */
+/* COLOR PALETTE */
+/* colors */
+/* status colors */
+/* alpha colors */
+/* gradient colors */
+/* Preserve legacy variables */
+/* Primary */
+/* stylelint-enable color-no-hex */
+/* Wallet gradient background */
+/* App Cards gradient background */
+/* Wallets */
+/*------------------------------------*
+ *  # SASS Mixins and Functions
+ *------------------------------------*/
+/*
+ * SASS interpolation
+ */
+/*
+ * PX to EM
+ * @param $px - px value to be converted
+ * @param $base - base font size (in `em`)
+ * Note: 'em' values are calculate based on the element font-size
+ *       to properly converts 'px' to 'em', please pass in the element font-size with it
+ * Usage example:
+    padding: em(16px, 1.6em); // font-size in 'em'
+ */
+/*
+ * Set property by passing a property name, and values.
+ * @param $property name - padding, margin etc.
+ * @param $values        - values in `px` (space separated for multiple values)
+ * @param $font-size     - base font-size in `em`
+ * Usage example:
+   @include toEm(padding, 8px 16px 8px, 1.6em);
+ */
+/*
+ * Generate typefaces key-value pair of variable name and config
+ * Example:
+   --paragraph-center-bold-black: (14px, center, bold, black)
+ */
+/*
+ * Sets font-size, font-weight, color, text-transform, text-align and line-height
+ * Usage example:
+   @include setTypeface(16px, bold, black, uppercase);
+ */
+/*
+ * Set typefaces by passing a typeface variable name
+ * @param $var   - typeface variable
+ * @param $tt    - text-transform property
+ * @param $align - text-align property
+ * Usage example:
+   @include typeface(--paragraph-bold-black, uppercase, center);
+ */
+/*
+ * Range Slider Thumb styling is set here
+ */
+/*
+ * SVG icons colors
+ */
+/*
+ * Bar Spinner Animation
+ * @param $count    - number of bars
+ * @param $duration - duration of animation
+ * @param $phase    - each bar phase change delay
+ * Usage example:
+   @include createBarspinnerAnimation(5, 1.2s, 0,1);
+ */
+/*
+ * Tooltip colors
+ * @param $color - color property
+ * Usage example:
+   @include tooltipColor($COLOR_RED);
+ */
+/*
+ * Convert Tooltip colors
+ * @param $color - css color property
+ * Usage example:
+   @include convertTooltipColor(var(--status-default));
+ */
+/*
+    Constants
+*/
+/*
+    Variables
+*/
+/*
+    List of all typefaces variables in the format: --$FONT_SIZES-$TEXT_ALIGN-$FONT_WEIGHTS-COLORS.
+    See $FONT_SIZES, $TEXT_ALIGN, $FONT_WEIGHTS, $COLORS maps above for references.
+    Variables name example: --title-center-semibold-red
+ */
+/*
+    to use styles without modifier class on .inline-icon
+    use @extend
+
+    e.g. style icon on parent hover:
+        a:hover .inline-icon {
+            @extend %inline-icon-active;
+        }
+*/
+/**
+ * Define Breakpoints here.
+ */
+/** Need to add new breakpoints for mixins */
+.mt5-migration-banner {
+  position: relative;
+  margin-bottom: 2.4rem;
+  overflow: hidden;
+  background-color: var(--general-hover);
+  border-radius: 8px;
+  height: 7.2rem;
+}
+.mt5-migration-banner__trade-modal {
+  margin: 2.4rem;
+}
+.mt5-migration-banner__description {
+  position: relative;
+  z-index: 2;
+  max-width: 57.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto 1.6rem auto 3.2rem;
+}
+.mt5-migration-banner__description--trade-modal {
+  margin: auto 3.2rem;
+  padding-left: 3.8rem;
+}
+@media (min-width: 320px) and (max-width: 767px) {
+  .mt5-migration-banner__description {
+    margin: auto 0.8rem auto 3.2rem;
+  }
+  .mt5-migration-banner__description-text {
+    width: 90%;
+  }
+}
+.mt5-migration-banner__image {
+  position: absolute;
+  z-index: 0;
+  left: 0;
+  top: 0;
+  height: 100%;
+}
+@media (min-width: 320px) and (max-width: 767px) {
+  .mt5-migration-banner__image {
+    right: -0.1rem;
+    bottom: -0.1rem;
+    border-radius: 8px;
+  }
+}
+/*------------------------------------*
+ *  # Constants
+ *------------------------------------*/
+/*RTL Language Mixin*/
+/* stylelint-disable color-no-hex */
+/* COLOR PALETTE */
+/* colors */
+/* status colors */
+/* alpha colors */
+/* gradient colors */
+/* Preserve legacy variables */
+/* Primary */
+/* stylelint-enable color-no-hex */
+/* Wallet gradient background */
+/* App Cards gradient background */
+/* Wallets */
+/*------------------------------------*
+ *  # SASS Mixins and Functions
+ *------------------------------------*/
+/*
+ * SASS interpolation
+ */
+/*
+ * PX to EM
+ * @param $px - px value to be converted
+ * @param $base - base font size (in `em`)
+ * Note: 'em' values are calculate based on the element font-size
+ *       to properly converts 'px' to 'em', please pass in the element font-size with it
+ * Usage example:
+    padding: em(16px, 1.6em); // font-size in 'em'
+ */
+/*
+ * Set property by passing a property name, and values.
+ * @param $property name - padding, margin etc.
+ * @param $values        - values in `px` (space separated for multiple values)
+ * @param $font-size     - base font-size in `em`
+ * Usage example:
+   @include toEm(padding, 8px 16px 8px, 1.6em);
+ */
+/*
+ * Generate typefaces key-value pair of variable name and config
+ * Example:
+   --paragraph-center-bold-black: (14px, center, bold, black)
+ */
+/*
+ * Sets font-size, font-weight, color, text-transform, text-align and line-height
+ * Usage example:
+   @include setTypeface(16px, bold, black, uppercase);
+ */
+/*
+ * Set typefaces by passing a typeface variable name
+ * @param $var   - typeface variable
+ * @param $tt    - text-transform property
+ * @param $align - text-align property
+ * Usage example:
+   @include typeface(--paragraph-bold-black, uppercase, center);
+ */
+/*
+ * Range Slider Thumb styling is set here
+ */
+/*
+ * SVG icons colors
+ */
+/*
+ * Bar Spinner Animation
+ * @param $count    - number of bars
+ * @param $duration - duration of animation
+ * @param $phase    - each bar phase change delay
+ * Usage example:
+   @include createBarspinnerAnimation(5, 1.2s, 0,1);
+ */
+/*
+ * Tooltip colors
+ * @param $color - color property
+ * Usage example:
+   @include tooltipColor($COLOR_RED);
+ */
+/*
+ * Convert Tooltip colors
+ * @param $color - css color property
+ * Usage example:
+   @include convertTooltipColor(var(--status-default));
+ */
+/*
+    Constants
+*/
+/*
+    Variables
+*/
+/*
+    List of all typefaces variables in the format: --$FONT_SIZES-$TEXT_ALIGN-$FONT_WEIGHTS-COLORS.
+    See $FONT_SIZES, $TEXT_ALIGN, $FONT_WEIGHTS, $COLORS maps above for references.
+    Variables name example: --title-center-semibold-red
+ */
+/*
+    to use styles without modifier class on .inline-icon
+    use @extend
+
+    e.g. style icon on parent hover:
+        a:hover .inline-icon {
+            @extend %inline-icon-active;
+        }
+*/
+/**
+ * Define Breakpoints here.
+ */
+/** Need to add new breakpoints for mixins */
+.mt5-download-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  margin: 2.4rem;
+}
+.mt5-download-container--span {
+  width: 100%;
+}
+.mt5-download-container--option {
+  width: 100%;
+  height: 3.4rem;
+  padding: 0.8rem;
+  border-radius: 0.8rem;
+  background-color: var(--general-section-4);
+  text-decoration: none;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+.mt5-download-container--option .full-row {
+  gap: 0.8rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.mt5-download-container--option .full-row .title {
+  flex: 1;
+}
+.mt5-download-container .blue {
+  background-color: #0364b9;
+}
+.mt5-download-container .blue .title {
+  color: var(--text-colored-background);
+}
