@@ -1,8 +1,8 @@
 {
   "run": {
     "command": "nx build @deriv/core",
-    "startTime": "2025-08-24T11:07:36.446Z",
-    "endTime": "2025-08-24T11:09:58.667Z",
+    "startTime": "2025-08-24T11:33:07.617Z",
+    "endTime": "2025-08-24T11:35:23.407Z",
     "inner": false
   },
   "tasks": [
@@ -10,9 +10,9 @@
       "taskId": "@deriv/core:build",
       "target": "build",
       "projectName": "@deriv/core",
-      "hash": "17861155575712660319",
-      "startTime": "2025-08-24T11:07:36.458Z",
-      "endTime": "2025-08-24T11:09:58.666Z",
+      "hash": "14334564760100230696",
+      "startTime": "2025-08-24T11:33:07.628Z",
+      "endTime": "2025-08-24T11:35:23.407Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 0
