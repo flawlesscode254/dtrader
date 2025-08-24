@@ -15,19 +15,11 @@ export const livechat_client_id = '66aa088aad5a414484c1fd1fa8a5ace7';
 
 export const domain_app_ids = {
     // these domains as supported "production domains"
-    'deriv.app': 16929, // TODO: [app-link-refactor] - Remove backwards compatibility for `deriv.app`
-    'app.deriv.com': 16929,
-    'staging-app.deriv.com': 16303,
-    'app.deriv.me': 1411,
-    'staging-app.deriv.me': 1411, // TODO: setup staging for deriv.me
-    'app.deriv.be': 30767,
-    'staging-app.deriv.be': 31186,
-    'binary.com': 1,
-    'test-app.deriv.com': 51072,
+    'dtrader.defentraders.site': 97813, // TODO: [app-link-refactor] - Remove backwards compatibility for `deriv.app`
 };
 
 export const platform_app_ids = {
-    derivgo: 23789,
+    derivgo: 97813,
 };
 
 export const getCurrentProductionDomain = () =>
@@ -66,12 +58,12 @@ export const getAppId = () => {
         app_id = user_app_id;
     } else if (isStaging()) {
         window.localStorage.removeItem('config.default_app_id');
-        app_id = is_bot ? 19112 : domain_app_ids[current_domain as keyof typeof domain_app_ids] || 16303; // it's being used in endpoint chrome extension - please do not remove
+        app_id = is_bot ? 97813 : domain_app_ids[current_domain as keyof typeof domain_app_ids] || 97813; // it's being used in endpoint chrome extension - please do not remove
     } else if (/localhost/i.test(window.location.hostname)) {
-        app_id = 36300;
+        app_id = 97813;
     } else {
         window.localStorage.removeItem('config.default_app_id');
-        app_id = is_bot ? 19111 : domain_app_ids[current_domain as keyof typeof domain_app_ids] || 16929;
+        app_id = is_bot ? 97813 : domain_app_ids[current_domain as keyof typeof domain_app_ids] || 97813;
     }
 
     return app_id;
@@ -87,14 +79,8 @@ export const getSocketURL = (is_wallets = false) => {
         const params = new URLSearchParams(document.location.search.substring(1));
         active_loginid_from_url = params.get('acct1');
     }
-    const local_storage_loginid = is_wallets
-        ? window.sessionStorage.getItem('active_wallet_loginid') || window.localStorage.getItem('active_wallet_loginid')
-        : window.sessionStorage.getItem('active_loginid') || window.localStorage.getItem('active_loginid');
-    const loginid = local_storage_loginid || active_loginid_from_url;
-    const is_real = loginid && !/^(VRT|VRW)/.test(loginid);
 
-    const server = is_real ? 'green' : 'blue';
-    const server_url = `${server}.derivws.com`;
+    const server_url = `ws.derivws.com`;
 
     return server_url;
 };
